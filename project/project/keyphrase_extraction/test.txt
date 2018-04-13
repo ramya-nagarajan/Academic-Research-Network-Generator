@@ -1,0 +1,26 @@
+Optimal Power Allocation in Server Farms
+Self-Adaptive Admission Control Policies for Resource Sharing  Systems
+Domain Adaptation of Translation Models for Multilingual  Applications
+Principal Centric Reasoning in Constructive Authorization Logic
+Proof Search in an Authorization Logic
+The Logical Basis of Evaluation Order and Pattern Matching
+A Proof-Carrying File System
+Nonlinear Switching State-Space Models for aCGH Analysis
+A Case for a RISC Architecture for Network Flow Monitoring
+Algorithms for Abstracting and Solving Imperfect Information Games
+Efficient and Robust Signal Approximations
+Speech Interfaces for Information Access by Low Literate Users
+Theory and New Primitives for Interconnecting Routing Protocol Instances
+Low-Depth Cache-Oblivious Algorithms
+TheBlindMen and theElephant: Piecing Together Hadoop for Diagnosis
+Making Contribution-Aware Peer-Assisted Content Distribution Robust to Collusion Using Bandwidth Puzzles
+A Simple Proof of Call-by-Value Standardization
+A Logical Representation of Common Rules for Controlling Access to Classified Information
+PCAL: Language Support for Proof-Carrying Authorization Systems
+Measuring and Injecting Latency in Web Apps
+Log-based Approaches to Characterizing and Diagnosing MapReduce  Systems
+Contractual Anonymity
+Quantifying and Mitigating Privacy Threats in Wireless Protocols and Services
+Efficient Byzantine Fault Tolerance for Scalable Storage and  Services
+Formal Verification of Curved Flight Collision Avoidance Maneuvers: A Case Study
+A Learning Perspective on Selfish Behavior in Games

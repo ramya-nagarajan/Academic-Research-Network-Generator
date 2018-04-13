@@ -1,0 +1,401 @@
+['Model', 'Checking', 'Application', 'Simulink', 'Verification', 'Statistical Model', 'Model Checking', 'Stateflow Simulink', 'Simulink Verification', 'Statistical Model Checking', 'Stateflow Simulink Verification']
+Model	-8.7954
+Checking	-8.5303
+Application	-8.5416
+Simulink	-7.5918
+Verification	-7.956
+Statistical Model	-5.3513
+Model Checking	-4.3923
+Stateflow Simulink	-6.8425
+Simulink Verification	-8.3447
+Statistical Model Checking	-7.1119
+Stateflow Simulink Verification	-6.3561
+
+['Search', 'Tree', 'Restructuring', 'Search Tree', 'Tree Restructuring', 'Search Tree Restructuring']
+Search	-11.2789
+Tree	-9.2391
+Restructuring	-8.395
+Search Tree	-5.716
+Tree Restructuring	-3.9287
+Search Tree Restructuring	13.0496
+
+['Segment', 'Diversity', 'Edge']
+Segment	-8.3774
+Diversity	-8.4062
+Edge	-8.9094
+
+['Computing', 'Equilibria', 'Models', 'Qualitative Models']
+Computing	-6.2716
+Equilibria	-6.5989
+Models	-8.0222
+Qualitative Models	-4.8887
+
+['Understanding', 'Route', 'Aggregation', 'Understanding Route', 'Route Aggregation', 'Understanding Route Aggregation']
+Understanding	-8.1937
+Route	-9.9787
+Aggregation	-6.6832
+Understanding Route	-6.5439
+Route Aggregation	-7.1091
+Understanding Route Aggregation	-7.1598
+
+['Analysis', 'Scheduling', 'Policies', 'Job', 'Sizes', 'Scheduling Policies', 'Correlated Job', 'Job Sizes', 'Correlated Job Sizes']
+Analysis	-7.5174
+Scheduling	-7.0384
+Policies	-9.1396
+Job	-11.0075
+Sizes	-8.797
+Scheduling Policies	-4.3956
+Correlated Job	-8.3047
+Job Sizes	-4.5389
+Correlated Job Sizes	-7.6709
+
+['Capacity', 'Server', 'Farms', 'Dynamic Capacity', 'Server Farms']
+Capacity	-8.9415
+Server	-9.9589
+Farms	-11.4117
+Dynamic Capacity	-6.0516
+Server Farms	-8.7198
+
+['Safe', 'Use', 'Storage', 'Mobility', 'Transient Use', 'Local Storage', 'VM-based Mobility']
+Safe	-10.8144
+Use	-9.5021
+Storage	-9.1985
+Mobility	-8.3776
+Transient Use	-7.9742
+Local Storage	-6.9786
+VM-based Mobility	-1.9459
+
+['Manna', 'Architecture', 'Search', 'VM', 'Clouds', 'Plug-In Architecture', 'Content-based Search']
+Manna	-9.2536
+Architecture	-7.7666
+Search	-11.2789
+VM	-9.9031
+Clouds	-10.3362
+Plug-In Architecture	-8.0327
+Content-based Search	-5.0134
+
+['Pocket', 'ISR', 'Machines', 'Virtual Machines']
+Pocket	-11.6957
+ISR	-9.0324
+Machines	-8.6516
+Virtual Machines	-7.0873
+
+['Learning', 'Models', 'Protein', 'Families', 'Generative Models']
+Learning	-8.4665
+Models	-8.0222
+Protein	-9.7656
+Families	-9.9166
+Generative Models	-4.2256
+
+['Robot', 'Motion', 'Planning', 'Environments', 'Physics-Based Robot', 'Robot Motion', 'Motion Planning', 'Multi-Body Environments', 'Physics-Based Robot Motion', 'Robot Motion Planning']
+Robot	-9.153
+Motion	-9.0519
+Planning	-9.38
+Environments	-6.9455
+Physics-Based Robot	-9.0251
+Robot Motion	-4.959
+Motion Planning	-3.52
+Multi-Body Environments	-9.1378
+Physics-Based Robot Motion	-10.2073
+Robot Motion Planning	-4.4777
+
+['Predicates', 'Technique', 'Programming']
+Predicates	-4.9133
+Technique	-7.642
+Programming	-7.4411
+
+['Models', 'Dynamics', 'Data', 'Graphical Models', 'Molecular Dynamics']
+Models	-8.0222
+Dynamics	-7.8683
+Data	-9.1801
+Graphical Models	-4.5135
+Molecular Dynamics	-7.173
+
+['Machine', 'Learning', 'Diamond', 'Interactive Machine', 'Machine Learning', 'Interactive Machine Learning']
+Machine	-8.6705
+Learning	-8.4665
+Diamond	-11.7078
+Interactive Machine	-5.7306
+Machine Learning	-4.9999
+Interactive Machine Learning	-6.6415
+
+['Statistical', 'Modeling', 'Activity', 'Scale', 'Networks', 'Statistical Modeling', 'Large Scale', 'Neuronal Networks']
+Statistical	-7.0389
+Modeling	-7.8971
+Activity	-9.7426
+Scale	-7.9591
+Networks	-7.7356
+Statistical Modeling	-5.8199
+Large Scale	-6.7632
+Neuronal Networks	-6.063
+
+['Detection', 'Internet', 'Worms', 'Signature-Based Detection', 'New Internet', 'Internet Worms', 'New Internet Worms']
+Detection	-7.3091
+Internet	-10.5741
+Worms	-10.1821
+Signature-Based Detection	-5.4635
+New Internet	-8.7758
+Internet Worms	-6.867
+New Internet Worms	-12.5425
+
+['Model', 'Automata', 'Cellular Automata']
+Model	-8.7954
+Automata	-6.4207
+Cellular Automata	-5.4485
+
+['Deployment', 'Intrusion', 'Detection', 'Prevention', 'Systems', 'Network-Wide Deployment', 'Intrusion Detection', 'Intrusion Prevention', 'Prevention Systems']
+Deployment	-7.6129
+Intrusion	-7.9791
+Detection	-7.3091
+Prevention	-9.8211
+Systems	-7.7107
+Network-Wide Deployment	-8.1945
+Intrusion Detection	-6.634
+Intrusion Prevention	-8.6896
+Prevention Systems	-7.9211
+
+['Web', 'Programming', 'Type-Safe Web', 'Web Programming', 'Type-Safe Web Programming']
+Web	-11.1669
+Programming	-7.4411
+Type-Safe Web	-8.6015
+Web Programming	-9.1192
+Type-Safe Web Programming	12.3564
+
+['Logic', 'Hybrid', 'Systems', 'Dynamic Logic', 'Hybrid Systems']
+Logic	-7.6401
+Hybrid	-8.2832
+Systems	-7.7107
+Dynamic Logic	-4.9988
+Hybrid Systems	-5.6661
+
+['Image', 'Editing', 'Creation', 'Features', 'Image Editing', 'Image Creation', 'Local Features']
+Image	-10.8454
+Editing	-9.5026
+Creation	-8.8646
+Features	-9.3658
+Image Editing	-9.4894
+Image Creation	-8.94
+Local Features	-5.6327
+
+['Model', 'Validation', 'Discovery', 'Systems', 'Model Validation', 'Model Discovery', 'Stochastic Systems']
+Model	-8.7954
+Validation	-7.3831
+Discovery	-8.5557
+Systems	-7.7107
+Model Validation	-4.211
+Model Discovery	-7.7387
+Stochastic Systems	-5.0067
+
+['Coordination', 'MDPs', 'Interactions', 'Multiagent Coordination', 'Decentralized MDPs', 'Sparse Interactions']
+Coordination	-7.958
+MDPs	-6.162
+Interactions	-8.403
+Multiagent Coordination	-4.2587
+Decentralized MDPs	-5.4654
+Sparse Interactions	-5.2018
+
+['Type', 'Safety', 'Specifications', 'Results', 'Type Safety', 'Substructural Specifications', 'Preliminary Results']
+Type	-10.3079
+Safety	-10.6083
+Specifications	-8.8292
+Results	-9.5019
+Type Safety	-6.522
+Substructural Specifications	-1.9459
+Preliminary Results	-6.3549
+
+['Algorithms', 'Differential', 'Privacy', 'New Algorithms', 'Differential Privacy']
+Algorithms	-5.1493
+Differential	-7.1576
+Privacy	-11.6359
+New Algorithms	-4.92
+Differential Privacy	-4.9354
+
+['Algorithms', 'Models', 'Problems', 'Networking']
+Algorithms	-5.1493
+Models	-8.0222
+Problems	-8.214
+Networking	-8.9732
+
+['Network', 'Management', 'Coordination', 'Optimization', 'Effective Network', 'Network Management', 'System-Wide Coordination', 'System-Wide Optimization', 'Effective Network Management']
+Network	-10.2997
+Management	-8.9225
+Coordination	-7.958
+Optimization	-6.9061
+Effective Network	-6.9093
+Network Management	-7.1736
+System-Wide Coordination	-9.105
+System-Wide Optimization	-6.7439
+Effective Network Management	-8.9205
+
+['Refinement', 'Types', 'Frameworks', 'Refinement Types', 'Logical Frameworks']
+Refinement	-6.6357
+Types	-8.4021
+Frameworks	-6.9389
+Refinement Types	-4.1342
+Logical Frameworks	-4.7731
+
+['Migration', 'Operations', 'Storage', 'Systems', 'Multi-server Operations', 'Scalable Storage', 'Storage Systems', 'Scalable Storage Systems']
+Migration	-8.8514
+Operations	-8.0944
+Storage	-9.1985
+Systems	-7.7107
+Multi-server Operations	-8.7551
+Scalable Storage	-6.5323
+Storage Systems	-7.6092
+Scalable Storage Systems	-9.7283
+
+['Approximability', 'Learning', 'Constraint', 'Satisfaction', 'Problems', 'Constraint Satisfaction', 'Satisfaction Problems']
+Approximability	-4.1363
+Learning	-8.4665
+Constraint	-5.6657
+Satisfaction	-9.3473
+Problems	-8.214
+Constraint Satisfaction	-4.4193
+Satisfaction Problems	-4.3391
+
+['Cloud', 'Earth', 'Transient', 'PCs', 'Earth Transient', 'Transient PCs']
+Cloud	-11.0789
+Earth	-10.9123
+Transient	-7.5122
+PCs	-9.9005
+Earth Transient	6.0649
+Transient PCs	8.7422
+
+['QMAS', 'Mining', 'Summarization', 'Databases', 'Multi-modal Databases']
+QMAS	-9.6119
+Mining	-8.1646
+Summarization	-8.1172
+Databases	-7.637
+Multi-modal Databases	-7.0523
+
+['Programming', 'Language', 'Novice', 'Computer', 'Scientists', 'Imperative Programming', 'Programming Language', 'Novice Computer', 'Computer Scientists', 'Imperative Programming Language']
+Programming	-7.4411
+Language	-9.4324
+Novice	-9.4424
+Computer	-7.8835
+Scientists	-8.8115
+Imperative Programming	-4.9139
+Programming Language	-6.5732
+Novice Computer	-7.4845
+Computer Scientists	-5.7443
+Imperative Programming Language	-7.0884
+
+['Design', 'Model', "Women's", 'Empowerment', 'World', 'Design Model', 'Developing World']
+Design	-9.0416
+Model	-8.7954
+Women's	-12.6239
+Empowerment	-9.7928
+World	-10.3685
+Design Model	-6.9657
+Developing World	-9.2391
+
+['System', 'Network', 'Control', 'Practical System', 'Centralized Network', 'Network Control', 'Centralized Network Control']
+System	-8.864
+Network	-10.2997
+Control	-9.0266
+Practical System	-5.6593
+Centralized Network	-6.4605
+Network Control	-6.5156
+Centralized Network Control	-10.2865
+
+['Instrumentation', 'Analysis', 'Method', 'Abstractions', 'Programs', 'Instrumentation Analysis', 'Automated Method', 'Numeric Abstractions', 'Heap-Manipulating Programs']
+Instrumentation	-8.4774
+Analysis	-7.5174
+Method	-7.8606
+Abstractions	-5.6148
+Programs	-8.9088
+Instrumentation Analysis	-7.8106
+Automated Method	-6.6548
+Numeric Abstractions	-4.9256
+Heap-Manipulating Programs	-5.4132
+
+['Principles', 'Provability', 'Logic', 'Constructive Provability', 'Provability Logic', 'Constructive Provability Logic']
+Principles	-7.4771
+Provability	-5.1318
+Logic	-7.6401
+Constructive Provability	-6.4025
+Provability Logic	-5.885
+Constructive Provability Logic	5.6656
+
+['Object', 'Recognition', 'Objects', 'Multiple-Cue Object', 'Object Recognition', 'Interactionable Objects', 'Multiple-Cue Object Recognition']
+Object	-8.1882
+Recognition	-7.3336
+Objects	-7.7952
+Multiple-Cue Object	-7.7352
+Object Recognition	-4.7363
+Interactionable Objects	-5.451
+Multiple-Cue Object Recognition	-8.0141
+
+['XIA', 'Architecture', 'Internet', 'Trustworthy Internet']
+XIA	-8.4973
+Architecture	-7.7666
+Internet	-10.5741
+Trustworthy Internet	-9.4533
+
+['Change?', 'Internet', 'Lines', 'Code', 'Little Change?', '5-Nines Internet']
+Change?	-9.5493
+Internet	-10.5741
+Lines	-8.8448
+Code	-11.4375
+Little Change?	-8.3175
+5-Nines Internet	12.8265
+
+['Semantics', 'Purpose', 'Requirements', 'Privacy', 'Policies', 'Purpose Requirements', 'Privacy Policies']
+Semantics	-6.6948
+Purpose	-8.4036
+Requirements	-8.3866
+Privacy	-11.6359
+Policies	-9.1396
+Purpose Requirements	-7.184
+Privacy Policies	-9.2223
+
+['Reuse', 'Environments', 'Spatial Reuse', 'Indoor Environments']
+Reuse	-7.2037
+Environments	-6.9455
+Spatial Reuse	-4.5251
+Indoor Environments	-5.9278
+
+['Design', 'Optimzation', 'Approach', 'Physical Design', 'Combinatorial Optimzation', 'Optimzation Approach', 'Combinatorial Optimzation Approach']
+Design	-9.0416
+Optimzation	-7.4501
+Approach	-7.1054
+Physical Design	-5.6542
+Combinatorial Optimzation	-12.6885
+Optimzation Approach	1.0046
+Combinatorial Optimzation Approach	1.9675
+
+['Access', 'Network', 'Architecture', 'Multimedia', 'Delivery', 'Access Network', 'Network Architecture', 'Neighborhood-scale Multimedia', 'Access Network Architecture']
+Access	-9.3815
+Network	-9.1206
+Architecture	-7.7666
+Multimedia	-9.1658
+Delivery	-10.5413
+Access Network	-7.4284
+Network Architecture	-4.3679
+Neighborhood-scale Multimedia	13.0496
+Access Network Architecture	-9.4617
+
+['Computer', 'Science', 'Education', 'Carnegie', 'Mellon', 'University', 'Perspective', 'Introductory Computer', 'Computer Science', 'Science Education', 'Carnegie Mellon', 'Mellon University', "Dean's Perspective", 'Introductory Computer Science', 'Computer Science Education', 'Carnegie Mellon University']
+Computer	-7.8835
+Science	-7.9804
+Education	-9.9768
+Carnegie	-7.4635
+Mellon	-6.9433
+University	-8.0058
+Perspective	-8.0061
+Introductory Computer	-5.0325
+Computer Science	-5.5917
+Science Education	-7.611
+Carnegie Mellon	-5.822
+Mellon University	-5.5897
+Dean's Perspective	-9.3501
+Introductory Computer Science	-4.6031
+Computer Science Education	-2.4251
+Carnegie Mellon University	-5.8178
+
+['Computations', 'Caches', 'Parallel Computations', 'Hierarchical Caches']
+Computations	-4.8174
+Caches	-7.0815
+Parallel Computations	-4.3044
+Hierarchical Caches	-5.8654
+

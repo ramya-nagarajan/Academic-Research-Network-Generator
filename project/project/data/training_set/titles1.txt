@@ -1,0 +1,1060 @@
+Bayesian Statistical Model Checking with Application to Stateflow/Simulink Verification
+Search Tree Restructuring
+Segment based Internetworking to Accommodate Diversity at the Edge
+Computing Equilibria by Incorporating Qualitative Models
+Understanding Route Aggregation
+Analysis of Scheduling Policies under Correlated Job Sizes
+Energy-Efficient Dynamic Capacity Provisioning in Server Farms
+Safe Transient Use of Local Storage for VM-based Mobility
+The Manna Plug-In Architecture for Content-based Search of VM Clouds
+Pocket ISR: Virtual Machines Anywhere
+Learning Generative Models for Protein Fold Families
+Physics-Based Robot Motion Planning in Dynamic Multi-Body Environments
+Locally Distributed Predicates: A Technique for Distributed Programming
+Time-Varying Gaussian Graphical Models of Molecular Dynamics Data
+Interactive Machine Learning in Diamond
+Statistical Modeling of Spiking Activity in Large Scale Neuronal Networks
+Privacy-Preserving Distributed, Automated Signature-Based Detection of New Internet Worms
+Model Checking Omega Cellular Automata
+Network-Wide Deployment of Intrusion Detection and Prevention  Systems
+Type-Safe Web Programming in QWeS2T
+Quantified Differential Dynamic Logic for Distributed Hybrid Systems
+An Access Network Architecture for Neighborhood-scale Multimedia  Delivery
+Image Editing and Creation with Perception-Motivated Local Features
+Model Validation and Discovery for Complex Stochastic Systems
+Local Multiagent Coordination in Decentralized MDPs with Sparse  Interactions
+Type Safety for Substructural Specifications: Preliminary Results
+New Algorithms for Preserving Differential Privacy
+Algorithms and Models for Problems in Networking
+Effective Network Management via System-Wide Coordination and  Optimization
+Refinement Types for Logical Frameworks
+Taking Tekkotsu Out Of The Plane
+Introductory Computer Science Education at Carnegie Mellon University: A Dean's Perspective
+Reusing Migration to Simply and Efficiently Implement Multi-server  Operations in Transparently Scalable Storage Systems
+The Approximability of Learning and Constraint Satisfaction Problems
+Bringing the Cloud Down to Earth: Transient PCs Everywhere
+QMAS: Querying, Mining and Summarization of Multi-modal Databases
+CO, an Imperative Programming Language for Novice Computer  Scientists
+Programmable Self-Adjusting Computation
+Weak Focusing for Ordered Linear Logic
+Towards a Design Model for Women's Empowerment in the Developing  World
+A Practical System for Centralized Network Control
+Instrumentation Analysis: An Automated Method for Producing Numeric  Abstractions of Heap-Manipulating Programs
+Principles of Constructive Provability Logic
+Multiple-Cue Object Recognition for Interactionable Objects
+Scheduling Irregular Parallel Computations on Hierarchical Caches
+XIA: An Architecture for an Evolvable and Trustworthy Internet
+Spare a Little Change? Towards a 5-Nines Internet in 250 Lines of Code
+On the Semantics of Purpose Requirements in Privacy Policies
+Maximizing Spatial Reuse in Indoor Environments
+Automated Physical Design: A Combinatorial Optimzation Approach
+Dependently Typed Programming with Domain-Specific Logics
+A Case for World-wide Network Measurement using Smartphones and  Open Marketplaces
+Adaptive Cruise Control: Hybrid, Distributed, and Now Formally  Verified
+The von Mises Graphical Model: Structure Learning
+On Markov-Krein Characterization of Mean Sojourn Time in Queueing  Systems
+Logical, Metric, and Algorithmic Characterisations of Probabilistic Bisimulation
+Stochastic Differential Dynamic Logic for Stochastic Hybrid Programs
+The Structure of Differential Invariants and Differential Cut Elimination
+Using Expressiveness to Increase Efficiency in Social and Economic Mechanisms
+Stochastic Models and Analysis for Resource Management in Server  Farms
+KeySlinger and StarSlinger: Secure Key Exchange and Encrypted File Transfer  on Smartphones
+Structured Probabilistic Models of Proteins across Spatial and Fitness  Landscapes
+RPT: Re-architecting Loss Protection for Content-Aware Networks
+WiMed: An Infrastructure-less Approach to Wireless Diagnosis
+End-to-end Tracing in HDFS
+Mesh Generation and Geometric Persistent Homology
+A New Architecture for Cloud Rendering and Amortized Graphics
+Smoke Sheets and Vortex Filaments with Flexible Reconnection
+Sticky-Finger Manipulation with a Multi-Touch Interface
+Designing an Interface and Path Translator for a Smart Phone-BasedIndoor Navigation System for Visually Impaired Users
+Compression of Physical Simulations for Mobile Virtual Worlds
+Fast Algorithms for Mining Co-evolving Time Series
+The von Mises Graphical Model: Regularized Structure and Parameter Learning
+The von Mises Graphical Model: Expectation Propagation for Inference
+Energy-efficient Data-intensive Computing with a Fast Array of Wimpy  Nodes
+A Contact Sheet Approach to Searching Untagged Images on Smartphones
+Mining and Querying Multimedia Data
+Performance Insulation: More Predictable Shared Storage
+Collaborating with Executable Content Across Space and Time
+Learning Ancestral Genetic Processes using Nonparametric Bayesian  Models
+Typed Multiset Rewriting Specifications of Security Protocols
+MSR 2.0: Language Definition and Programming Environment
+The Complete Proof Theory of Hybrid Systems
+Relating Reasoning Methodologies in Linear Logic and Process Algebra
+Cloud Offload in Hostile Environments
+A Scientific Understanding of Keystroke Dynamics
+Testing Properties of Boolean Functions
+Axiomatic Analysis of Co-occurrence Similarity Functions
+Near-Real-Time Inference of File Level Mutations from Virtual Disk  Writes
+Secure and Efficient Network Fault Localization
+Is Structural Subtyping Useful? An Empirical Study
+Coordinated Sampling sans Origin-Destination Identifiers: Algorithms, Analysis, and Evaluation
+Confidence-Based Robot Policy Learning from Demonstration
+Local Linear Semi-supervised Regression
+Learning by Combining Native Features with Similarity Functions
+Parallel LBA: Conherence-based Parallel Monitoring of Multithreaded  Applications
+Statistical Model Checking for Complex Stochastic Models in Systems Biology
+Learning to Improve Negotiation in Semi-Cooperative Agreement  Problems
+Thresholded-Rewards Decision Problems: Acting Effectively in Timed Domains
+Optimal Power Allocation in Server Farms
+Self-Adaptive Admission Control Policies for Resource-Sharing  Systems
+Domain Adaptation of Translation Models for Multilingual  Applications
+Principal Centric Reasoning in Constructive Authorization Logic
+Proof Search in an Authorization Logic
+The Logical Basis of Evaluation Order and Pattern-Matching
+A Proof-Carrying File System
+Nonlinear Switching State-Space Models for aCGH Analysis
+A Case for a RISC Architecture for Network Flow Monitoring
+Algorithms for Abstracting and Solving Imperfect Information Games
+Efficient and Robust Signal Approximations
+Speech Interfaces for Information Access by Low Literate Users
+Theory and New Primitives for Interconnecting Routing Protocol Instances
+Low-Depth Cache-Oblivious Algorithms
+TheBlindMen and theElephant: Piecing Together Hadoop for Diagnosis
+Making Contribution-Aware Peer-Assisted Content Distribution Robust to Coluusion Using Bandwidth Puzzles
+A Simple Proof of Call-by-Value Standardization
+A Logical Representation of Common Rules for Controlling Access to Classified Information
+PCAL: Language Support for Proof-Carrying Authorization Systems
+Measuring and Injecting Latency in Web Apps
+Log-based Approaches to Characterizing and Diagnosing MapReduce  Systems
+Contractual Anonymity
+Quantifying and Mitigating Privacy Threats in Wireless Protocols and Services
+Efficient Byzantine Fault Tolerance for Scalable Storage and  Services
+Formal Verification of Curved Flight Collision Avoidance Maneuvers: A Case Study
+A Learning Perspective on Selfish Behavior in Games
+Chip Multiprocessors for Server Workloads
+Large Scale Scene Matching for Graphics and Vision
+CZ: Multimethods and Multiple Inheritance Without Diamonds
+Formal Methods for Privacy
+A Hybrid Logical Framework
+Efficient Mesh Generation for Piecewise Linear Complexes
+Towards a More Principled Compiler: Register Allocation and Instruction Selection Revisited
+CPU Performance Counter-Based Problem Diagnosis for Software Systems
+Fast Cache for Your Text: Accelerating Exact Pattern Matching with Feed-Forward Bloom Filters
+Coding Without Your Crystal Ball: Unanticipated Object-Oriented Reuse
+Hyrax: Cloud Computing on Mobile Devices using MapReduce
+Authenticated Communication and Computation in Known-Topology Networks with a Trusted Authority
+M/G/k with Exponential Setup
+Matching Markets: Design and Analysis
+Proof Theory for Authorization Logic and Its Applications to a Practical File System
+Register Allocation Aware Instruction Selection
+Probabilistic Plan Management
+Properties of Multi-Splay Trees
+Better Scalable Algorithms for Broadcast Scheduling
+Collaborative Online Video Watching
+Structure Learning for Generative Models of Protein Fold Families
+Searching Complex Data Without an Index
+Hidden Process Models
+Adaptive Binary Search Trees
+Extending Automated Compositional Verification to the Full Class of Omega-Regular Languages
+Focusing on Binding and Computation
+Efficient Craig Interpolation for Linear Diophantine (Dis)Equations and Linear Modular Equations
+Computing Differential Invariants of Hybrid Systems as Fixedpoints
+Increasing the Scalability of Dynamic Web Applications
+The Effect of Higher Moments of Job Size Distribution on the Performance of anM/G/K/Queueing System
+Using Tensor Analysis to Characterize Contact-Map Dynamics of Proteins
+Space Profiling for Parallel Functional Programs
+Learning Domain-Specific Planners from Example Plans
+Volumetric Features for Video Event Detection
+Uniquely Represented Data Structures for Computational Geometry
+Transient Customization of Mobile Computing Infrastructure
+Modeling Variation in Motion Data
+Conditional Random Fields for Activity Recognition
+Integrating Nominal and Structural Subtyping
+Instability Free Routing: Beyond One Protocol Instance
+Information Mediation in the Presence of Constraints and  Uncertainties
+Modal Types for Mobile Code
+Extracting Conditional Confidentiality Policies
+A Bidirectional Refinement Type System for LF
+Controlling Multibody Dynamics cia Browsing and Time Reversal
+A Logic for Reasoning About Time-Dependent Access Control Policies
+The Open Diamond&reg;Platform for Discard-based Search
+Measuring the Attack Surfaces of SAP Business Applications
+Uniquely Represented Data Structures with Applications to Privacy
+A Vendor-Neutral Library and Viewer for Whole-Slide Images
+Effective Motion Tracking Using Known and Learned Actuation Models
+A Scalable Database Approach to Computing Delaunay Triangulations
+Smart Phones as Self-Cleaning Portable Caches for Infrastructure-Based Mobile Computing
+A Cost Semantics for Self-Adjusting Computation
+Evolution Styles - Formal Foundations and Tool Support for Software Architecture Evolution
+Expandable Grids: A User Interface Visualization Technique and a Policy Semantics to Support Fast, Accurate Security and Privacy Policy Authoring
+Sharing DBMS among Multiple Users while Providing Performance Isolation: Analysis and Implementation
+Verification using Satisfiability Checking, Predicate Abstraction, and Craig Interpolation
+Efficient Algorithms for Path Problems in Weighted Graphs
+Putting the "Scalability" into Database Scalability Services
+Towards Inference and Learning in Dynamic Bayesian Networks using Generalized Evidence
+An Attack Surface Metric
+New Theoretical Frameworks for Machine Learning
+Discovering Web Structure with Multiple Experts in a Clustering Framework
+A Computational Framework for the Analysis of Multi-Species Microarray Data
+Making Contribution-Aware P2P Systems Robust to Collusion Attacks Using  Bandwidth Puzzles
+Traffic Analysis for Network Security using Learning Theory and Streaming Algorithms
+Improving the Deployability of Diamond
+Analysis and Defense of Vulnerabilities in Binary Code
+Holistic Query Transformations for Dynamic Web Applications
+A Graphical Model Approach for Predicting Free Energies of Association for Protein-Protein Interactions under Backbone and Side-Chain  Flexibility
+Techniques for Exploiting Unlabeled Data
+Evaluating Predicates over Encrypted Data
+CZ: Multiple Inheritance Without Diamonds
+The Butterfly Model: Theoretical Foundations
+Optimizing Sensing - Theory and Applications
+Improving Mobile Database Access Over Wide-Area Networks Without Degrading Consistency
+Transparent Automatic Migration of Interactive Resource-Intensive Applications
+Approximation Algorithms Going Online
+Dimensionality Restrictions on Sums Over
+Construction and Optimal Search of Interpolated Motion Graphs
+Confidentiality Policies and Their Extraction from Programs
+Single Price Mechanisms for Revenue Maximization in Unlimited Supply Combinatorial Auctions
+Is Host-Based Anomaly Detection + Temporal  Correlation = Worm Causality?
+Using Discard-based Search for Indexed Search
+Defragmenting DHT-based Distributed File Systems
+Probabilistic Opaque Quorum Systems
+The Critical Role of Culture and Environment as Determinants of Women's Participation in Computer Science
+Just-In-Time Indexing for Interactive Data Exploration
+Dynamic Mesh Refinement with Quad Trees and Off-Centers
+Verification of Large Industrial Circuits Using SAT Based Reparameterization and Automated Abstraction-Refinement
+Error Awareness and Recovery in Conversational Spoken Language Interfaces
+Scheduling for Today's Computer Systems: Bridging Theory and Practice
+A Bidirectional Refinement Type System for LF
+Data-Intensive Supercomputing: The Case for DISC
+A Unified System of Type Refinements
+A Statistical Framework for Spatial Comparative Genomics
+Combinatorial and Algebraic Tools for Optimal Multilevel Algorithms
+Predicting Protein Folding Kinetics via Temporal Logic Model  Checking
+A Two Player Game to Combat Web Spam
+Learning Factors Analysis Learns to Read
+Statistical Modeling and Synthesis of Intrinsic Structures in Impact  Sounds
+Coordinated Sampling: An Efficient, Network-Wide Approach for Flow Monitoring
+Understanding the AS-level Path Disjointness Provided by Multi-homing
+A Theory of Loss-leaders: Making Money by Pricing Below Cost
+A Theory of Similarity Functions for Clustering
+A Formal Model for A System's Attack Surface
+Real-time Reduced Large-Deformation Models and Distributed Contact for Computer Graphics and Haptics
+An Approach to Measuring A System's Attack Surface
+Algorithms and Resource Requirements for Fundamental Problems
+Free LittleDog!: Towards Completely Untethered Operation of the Little Dog Quadruped
+Incremental Pattern Discovery on Streams, Graphs and Tensors
+Towards Practical Automatic Generation of Multipath Vulnerability Signatures
+Simulation Results for JSQ Server Farms with Processor Sharing  Servers
+All-Norms and All-Lp-Norms Approximation  Algorithms
+Random Sampling Auctions for Limited Supply
+Symbolic Approaches for Finding Control Strategies in Boolean Networks
+Symbolic Approaches for Finding Control Strategies in Boolean Networks
+Detecting Protein-Protein Interaction Decoys using Fast Free Energy Calculations
+Approximation Algorithms for Bounded Dimensional Metric Spaces
+Player Dynamics in Massively Multiplayer Online Games
+Low-Bandwidth VM Migration via Opportunistic Replay
+Dynamic Mesh Refinement
+Improving Mobile Infrastructure for Pervasive Personal Computing
+FMDistance: A Fast and Effective Distance Function for Motion Capture Data
+Write Markers for Probabilistic Quorum Systems
+Write Markers for Probabilistic Quorum Systems
+An Authorization Logic with Explicit Time
+From Indexed Lax Logic to Intuitionistic Logic
+Algorithms for Analyzing Intraspecific Sequence Variation
+Non-oblivious Retroactive Data Structures
+Efficient Data Organization and Management on Heterogeneous Storage Hierarchies
+An Onine Algorithm for Maximizing Submodular Functions
+Using Online Algorithms to Solve NP-Hard Problems More Efficiently in  Practice
+CMDragons 2007 Team Description
+Beyond Brain Blobs: Machine Learning Classifiers as Instruments for Analyzing Functional Magnetic Resonance Imaging Data
+Rethinking Storage for Discard-Based Search
+Distributed Online Anomaly Detection in High-Content Screening
+A Theory of Expressiveness in Mechanisms
+Distributed Pattern Discovery in Multiple Streams
+A Self-Service Approach to Scalable Service Deployment
+A Self-Service Approach to Scalable Service Deployment
+Cancer Phylogenetics from Single-Cell Assays
+A Separate Compilation Extension to Standard ML (Working Draft)
+A Separate Compilation Extension to Standard ML (Revised and Expanded)
+From Physical Modeling to Scientific Understanding - An End-to-End  Approach to Parallel Supercomputing
+New Techniques for Private Stream Searching
+Routing Without Regret: On Convergence to Nash Equilibria of Regret-Minimizing Algorithms in Routing Games
+Theory and Techniques for Automatic Generation of Vulnerability-Based Signatures
+DiscoTect: A System for Discovering the Architectures of Running Programs using Colored Petri Nets
+An Asymptotically Optimal Algorithm for the Maxk-Armed Bandit  Problem
+An Analysis of Graph Coloring Register Allocation
+Modal Types for Mobile Code (Thesis Proposal)
+On Consistency of Encrypted Files
+OverDoSe: A Generic DDoS Protection Service Using an Overlay Network
+Kinetic Algorithms via Self-Adjusting Computation
+Simultaneous Scalability and Security for Data-Intensive Web Applications
+Fundamental Characteristics of Queues with Fluctuating Load
+Simplifying Cyber Foraging
+Building Reliable Metaclassifiers for Text Learning
+Network Monitoring and Diagnosis Based on Available Bandwidth  Measurement
+Dimorphic Computing
+Fast Nonparametric Machine Learning Algorithms for High-dimensional Massive Data and Applications
+The RADAR Test Methodology: Evaluating a Multi-Task Machine Learning System with Humans in the Loop
+Advanced Tools for Video and Multimedia Mining
+Scalable Consistency Management for Web Database Caches
+Symmetric Public/Subscribe via Constraint Publication
+Symmetric Public/Subscribe via Constraint Publication
+Learning Others' Calendars
+Learning Abstractions for Model Checking
+Sparse Voronoi Refinement
+Anonymous Multi-Attributed Encryption with Range Query and Conditional Decryption
+Towards Automatically Eliminating Integer-Based Vulnerabilities
+Invalidation Clues for Database Scalability Services
+Multi-Splay Trees
+Detection of Spatial and Spatio-Temporal Clusters
+Static Enforcement of Timing Policies Using Code Certification
+Modeling the Global Critical Path in Concurrent Systems
+Computational Aspects of Preference Aggregation
+No-Compromise Caching of Dynamic Content from Relational Databases
+Really Truly Trackerless BitTorrent
+Privacy-Preserving Distributed Information Sharing
+JASPER: Facilitating Software Maintenance Activities With Explicit Task Representations
+Don't Secure Routing Protocols, Secure Data Delivery
+Nogood Learning for Mixed Integer Programming
+Strongly History Independent Hashing with Deletion
+Reducing the Search Space for Physically Realistic Human Motion Synthesis
+To Carry or To Find? Footloose on the Internet with a zero-pound laptop
+Temporal-logics as Query Languages for Dynamic Bayesian Networks:  Application toD. melanogasterEmbryo Development
+Free Energy Estimates of All-atom Protein Structures Using Generalized Belief Propagation
+Evaluating Data Driven Character Animation
+The Cult of the Bound Variable: The 9thAnnual ICFP Programming Contest
+Using Physical Layer Emulation to Understand and Improve Wireless  Networks
+Robust Planning in Domains with Stochastic Outcomes, Adversaries, and  Partial Observability
+Integrity Checking in Cryptographic File Systems with Constant Trusted Storage
+A Consistent Semantics of Self-Adjusting Computation
+Abstraction Techniques for Parameterized Verification
+Space and Context in the Rodent Hippocampal Region
+Motivating Programming: Using Storytelling to Make Computer Programming Attractive to Middle School Girls
+Deriving Key Distribution Protcols and their Security Properties
+Statistical Analysis of Natural Human Motion for Animation
+Trust Establishment for Transient Use of Unmanaged Hardware
+Interactive Search of Adipocytes in Large Collections of Digital Cellular  Images
+Combining Structural Subtyping and External Dispatch
+Instance-Based Question Answering
+Alias Analysis for Assembly
+Alias Analysis for Assembly
+Real-Time Motion Planning and Safe Navigation in Dynamic Multi-Robot Environments
+Handling Diverse Information Sources: Prioritized Multi-Hypothesis World Modeling
+Coaching: Learning and Using Environment and Agent Models for Advice
+Adding Faster with Application Specific Early Termination
+A Counterexample Guided Abstraction Refinement Framework for Verifying  Concurrent C Programs
+Compiler Optimization of Value Communication for Thread-Level Speculation
+CLL: A Concurrent Language Built from Logical Principles
+Verification and Planning for Stochastic Processes with Asynchronous Events
+Optimal Nonmyopic Value of Information in Graphical Models Efficient  Algorithms and Theoretical Limits
+Classifying Protein Structural Dynamics via Residual Dipolar Couplings
+Supporting Large Speculative Threads for Databases and Beyond
+Practical Refinement-Type Checking
+Device-Enabled Authorization in the Grey System
+A Distributed Architecture for Interactive Multiplayer Games
+Privacy-Preserving Set Operations
+Distributed Construction of a Fault-Tolerant Network from a Tree
+Detecting Space-Time Clusters: Prior Work and New Directions
+Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of  Search Engine Results
+Upgrading Distributed Applications with the Version Manager
+Optimistic Intra-Transaction Parallelism on Chip Multiprocessors
+A New Algorithm for the Reconstruction of Near-Perfect Binary Phylogenetic Trees
+Near-Optimal Sensor Placements in Gaussian Processes
+Error Explanation and Fault Localization with Distance Metrics
+Deadlock Resolution in Pipelined Query Graphs
+Scaling Task Management in Space and Time: Reducing User Overhead in  Ubiquitous-Computing Environments
+A Modal Languages for the Safety of Mobile Values
+Confronting Hardness Using a Hybrid Approach
+Learning To Prevent Failure State for a Dynamically Balancing Robot
+Generalizing Dijkstra s Algorithm and Gaussian Elimination for Solving MDPs
+Self-Adjusting Computation
+MessyBoard: Lowering the Cost of Communication and Making it More Enjoyable
+Understanding and Evolving the ML Module System
+Measuring an IP Network in situ
+Enabling Live Internet Broadcasting Using an Application Endpoint Architecture
+Adaptive Eager Boolean Encoding for Arithmetic Reasoning in Verification
+Certifying Compilation for Standard ML in a Type Analysis Framework
+Analysis of Multi-server Systems via Dimensionality Reduction of Markov Chains
+A Programming Language for Probabilistic Computation
+Selected Project Reports, Spring 2005: Advanced OS & Distributed Systems (15-712)
+Explicit Compiler-based Memory Management for Out-of-core  Applications
+Mechanism Design via Machine Learning
+Max-Min Fair Allocation of Indivisible Goods
+Automated Modeling and Nonlinear Axis Scaling
+Emodis&#8212;An End-based Network Monitoring and Diagnosis System
+Exploiting Parameter Domain Knowledge for Learning in Bayesian Networks
+FANFARE for the Common Flow
+The Seductive Appeal of Thin Clients
+Approximation Algorithms for Metric Embedding Problems
+Learning Dynamic Time Preferences in Multi-Agent Meeting Scheduling
+Algorithmic and Domain Centralization in Distributed Constraint Optimization Problems
+An Attack Surface Metric
+Taxonomy and Effectiveness of Worm Defense Strategies
+Simplifying Cyber Foraging for Mobile Devices
+Simplifying Cyber Foraging for Mobile Devices
+Finding Equilibria in Large Sequential Games of Imperfect Information
+Access Control to Information in Pervasive Computing Environments
+The First Segway Soccer Experience: Towards Peer-to-Peer Human-Robot Teams
+How the Landscape of Random Job Shop Scheduling Instances Depends on  the Ratio of Jobs to Machines
+Structure Based Chemical Shift Prediction using Random Forests Non-linear regression
+A Randomized Algorithm for Learning Mahalanobis Metrics: Application to  Classification and Regression of Biological Data
+On-line Robot Adaptation to Environmental Change
+Exploiting Redundancy for Robust Sensing
+Improving the Performance of Static and Dyanmic Requests at a Busy Web Site
+Parameter-Free Spatial and Stream Mining
+Self-Adjusting Distributed Trees
+Exploration and Policy Reuse
+Probabilistic Reuse of Past Policies
+Building a Library of Policies through Policy Reuse
+Approximation Algorithms for Item Pricing
+Approximation Algorithms for Item Pricing
+Refactoring Network Control and Management: A Case for the 4D Architecture
+A Formulation of Dependent ML with Explicit Equality Proofs
+FPT Algorithms for Binary Near-Perfect Phylogenetic Trees
+Endpoint-Based Routing Strategies for Improving Internet Performance and Resilience
+Graph Algorithms for Planning and Partitioning
+Performance Modeling of Storage Devices using Machine Learning
+A Lower Bound Framework for Binary Search Trees with Rotations
+Applying Thread-Level Speculation to Database Transactions
+Simplifying Distributed Application Upgrades with Simultaneous  Execution
+Sting: An End-to-End Self-healing System for Defending against Zero-day Worm Attacks on Commodity Software
+Redesigning Database Systems in Light of CPU Cache Prefetching
+Human Computation
+Staged Database Systems
+Term-Level Verification of a Pipelined CISC Microprocessor
+Compact Data Structures with Fast Queries
+Giving Users the Steering Wheel for Guiding Resource-Adaptive Systems
+Selected Project Reports, Fall 2005
+Abstraction-based Satisfiability Solving of Presburger Arithmetic
+Diffusion Kernels on Statistical Manifolds
+Measuring a System's Attack Surface
+Inter-Iteration Scalar Replacement in the Presence of Conditional Control-Flow
+Foundational Typed Assembly Language for Grid Computing
+A Symmetric Modal Lambda Calculus for Distributed Computing
+The Supply Chain Management Game for the Trading Agent Competition 2004
+A Statistical Approach to Algorithmic Analysis of High-Dimensional Nearest-Neighbor Search
+Drug Screening by Nonparametric Posterior Estimation
+Fast Kernel Matrix-Vector Multiplication with Application to Gaussian Process Learning
+An Adaptive Threshold-Based Policy for Sharing Servers with Affinities
+Privtrans: Automatically Partitioning Programs for Privilege Separation
+MMSS: Graph-based Multi-modal Story-oriented Video Summarization and  Retrieval
+Kernel Conditional Random Fields: Representation, Clique Selection, and Semi-Supervised Learning
+Incremental Detection of Text on Road Signs
+Tridirectional Typechecking
+New Event Detection with Nearest Neighbor, Support Vector Machines, and Kernel Regression
+Decentralized Recovery for Survivable Storage Systems
+Finding (Recently) Frequent Items in Distributed Data Streams
+Scenario Graphs and Attack Graphs
+Locating Internet Bottlenecks: Algorithms, Measurements, and Implications
+Engineering Formal Security Policies for Proof-Carrying Code
+Adaptive Demand-Driven Multicast Routing in Multi-Hop Wireless Ad Hoc Networks
+Compositional Transformation of Software Connectors
+Balance Refinement of Massive Linear Octree Datasets
+Recovering Latent Time-Series from their Observed Sums: Network Tomography with Particle Filters
+Checking Consistency of C and Verilog using Predicate Abstraction and Induction
+Planning in the JAVELIN QA System
+Helping Everyday Users Find Anomalies in Data Feeds
+Scalable and Practical Probability Density Estimators for Scientific Anomaly Detection
+Making Security Usable
+On the Communication Complexity of Correlation and Entanglement  Distillation
+Experiments with SAT-Based Symbolic Simulation Using Reparameterization in the Abstraction Refinement Framework
+Protein Similarity from Knot Theory: Geometric Convolution and Line Weavings
+Predicate Abstraction and Refinement Techniques for Verifying Verilog
+Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software
+A Security Study of the Internet: An Analysis of Firewall Behavior and Anonymous DNS
+New Streaming Algorithms for Fast Detection of Superspreaders
+Segway CMBalance Robot Soccer Player
+An Expressive Verification Framework for State/Event Systems
+On Static Readability Analysis of IP Networks
+Network-Aware Partitioning of Computation in Diamond
+Semi-Supervised Training of Models for Appearance-Based Statistical Object Detection Methods
+Functional Programming with Names and Necessity
+Mechanism Design for Computationally Limited Agents
+Exploiting the Cognitive and Social Benefits of Physically Large Displays
+Selective Memoization
+Toward a Theory of Steganography
+A Comparison of Overlay Routing and Multihoming Route
+Defying Hardness With a Hybrid Approach
+Beyond Desktop Management: Scaling Task Management in Space and Time
+Theoretical Guarantees for Algorithms in Multi-Agent Settings
+"Black-Box" Probabilistic Verification
+Analysis of a QBD Process that Depends on Background QBD Processes
+The Supply Chain Trading Agent Competition
+Learning Silhouette Features for Control of Human Motion
+Evaluation of the Haplotype Motif Model using the Principle of Minimum  Description
+PPDDL1.0: An Extension to PDDL for Expressing Planning Domains  with Probabilistic Effects
+Establishing the viability of End System Multicast using a Systems  Approach to Protocol Design
+User-Powered "Context-Free" Approach to Image Retrieval
+A Distributed and Scalable Peer-to-Peer Content Discovery System Supporting Complex Queries
+Dynamic Optimality and Multi-Splay Trees
+Exploiting Hierarchical Identity-Based Encryption for Access Control to  Pervasive Computing Information
+A Probabilistic Language based upon Sampling Functions
+Seeing-Is-Believing: Using Camera Phones for Human-Verifiable Authentication
+On-Demand Multicast Routing in Ad Hoc Networks with Unidirectional Links
+A Performance Comparison of On-Demand Multicast Routing Protocols for Ad Hoc Networks
+Distributed Control Flow with Classical Modal Logic
+Motion Estimation from Image and Inertial Measurements
+On Solving Boolean Combinations of Generalized 2SAT Constraints
+Person Tracking From a Dynamic Balancing Platform
+Private and Threshold Set-Intersection
+802.11 Power Management Extensions to Monarchns
+Using FIRE & ICE for Detecting and Recovering Compromised Nodes in Sensor  Networks
+Providing Contextual Information to Pervasive Computing Applications
+Acquiring Domain-Specific Planners by Example
+The DiskSim Simulation Environment: Version 3.0 Reference Manual
+Approximation Schemes for Flow Time on Multiple Machines
+Abstraction and Counterexample-Guided Refinement in Model Checking of Hybrid Systems
+Eliciting User Expectations for Data Behavior via Invariant Templates
+That's AI?: A History and Critique of the Field
+Adversarial Reinforcement Learning
+Foundational Certified Code in a Metalogical Framework
+Finding and Containing Enemies within the Walls with Self-securing Network Interfaces
+Online Convex Programming and Generalized Infinitesimal Gradient Ascent
+Meeting the Software Engineering Challenges of Adaptive Mobile Applications
+GEM: Graph EMbedding for Routing and Data-Centric Storage in Sensor Networks without Geographic Information
+Generalk-Anonymization is Hard
+A Closed-form Solution for Mapping General Distributions to Minimal PH Distributions
+Online Algorithms for Network Design
+Why Can't I Find My Files? New Methods for Automating Attribute Assigment
+A Boolean Approach to Unbounded, Fully Symbolic Model Checking of Timed Automata
+Multiagent Learning in the Presence of Agents with Limitations
+Preserving Privacy by De-identifying Facial Images
+Planning for Communication Resources
+Approximation Algorithmns for Orienteering and Discounted-Reward TSP
+Hardware Support for Thread-Level Speculation
+News and Trading Rules
+Exposing and Exploiting Internal Parallelism in MEMS-based Storage
+Behavioral Consistency of C and Verilog Programs Using Bounded Model Checking
+Efficient Consistency for Erasure-coded Data Via Versioning Servers
+Programmer Specified Pointer Independence
+A Human Organization Analyogy for Self-* Systems
+A Two-Tiered Software Architecture for Automated Tuning of Disk Layouts
+A Judgmental Analysis of Linear Logic
+Security Attribute Evaluation Method
+A Unified Framwork for Modeling TCP-Vegas, TCP-SACK, and TCP-Reno
+Uniquely Decodablen-gram Embeddings
+Lowering the Barriers to Programming: A Survey of Programming Environments and Languages for Novice Programmers
+Maximal Lattice Overlap in Example-Based Machine Translation
+Efficient BDD-Based Planning for Non-Deterministic,  Fault-Tolerant, and Adversarial Domains
+The Inverse Method for Intuitionistic Linear Logic (The Propositional Fragment)
+MinMax Payoffs of a Location Game
+Scaling Properties of the Internet Graph
+Enabling Secure High-Performance Wireless Ad Hoc Networking
+Computing the Volume Element of a Family of Metrics on the Multinomial Simplex
+A Markov Model for the Acquisition of Morphological Structure
+ARA*: Formal Analysis
+A Modal Calculus for Effect Handling
+A Denotational Approach to Measuring Complexity in Functional Programs
+Using SAT based Image Computation for Reachability Analysis
+How Useful Is the Metaphor Component of Agile Methods? A Preliminary Study
+Learning Bayesian Network Model Structure from Data
+A Fast Multi-Resolution Method for Detection of Significant Spatial Overdensities
+An Evolutionary Resolution to the Finitely Repeated Prisoner's Dilemma Paradox
+Convergence Testing in Term-Level Bounded Model Checking
+Improving Hash Join Performance through Prefetching
+Protecting Privacy in Key-Value Search Systems
+AutoPart: Automating Schema Design for Large Scientific Databases Using Data Partitioning
+Simultaneous Source Location
+A Type System for Well-Founded Recursion
+A Monadic Analysis of Infomration Flow Security with Mutable State
+Navigating Computer Science Research Through Waves of Privacy Concerns: Discussions Among Computer Scientists at Carnegie Mellon University
+A B&eacute;zier-Based Approach to Unstructured Moving Meshes
+The eXtreme Programming (XP) Metaphor and Software Architecture
+Finding Lists of People on the Web
+Measuring Relative Attack Surfaces
+A Robotically-Augmented Walker for Older Adults
+Location-based Node IDs: Enabling Explicit Locality in DHTs
+Robust Subspace Computation Using L1 Norm
+A Robust Subspace Approach to Extracting Layers from Image Sequences
+The Etree Library: A System for Manipulating Large Octrees on Disk
+Semi-Supervised Learning: From Gaussian Fields to Gaussian Processes
+Hot DB'02 Course Project Reports: Hot Topics in Database Systems, Fall 2002
+Reinforcement Learning Models of the Dopamine System and their Behavioral Implications
+Self-*Storage: Brick-based Storage with Automated Administration
+Advances in Counterexample-Guilded Abstraction/Reinfinement
+Protein Similarity from Knot Theory and Geometric Convolution
+The Aura Software Architecture: an Infrastructure for Ubiquitous Computing
+The Trading Agent Competititon Supply Chain Management Game
+Tabled Higher-Order Logic Programming
+Predicate Abstraction of ANSI-C Programs using SAT
+Byzantine-Tolerant Erasure-Coded Storage
+An Examination of Remote Access Help Desk Cases
+A SAT-Based Algorithm for Reparameterization in Symbolic Simulation
+A Framework for Building Unobtrusive Disk Maintenance Applications
+Learning to Identify TV News Monologues by Style and Context
+The Effect of Profile Choice and Profile Gathering Methods on Profile-Driven Optimization Systems
+Revisiting Positive Equality
+Evolutionary Dynamics with Large Aggregate Shocks
+Bounds on a Fair Policy with near Optimal Performance
+Simple Bounds on SMART Scheduling
+A Prototype User Interface for Coarse-Grained Desktop Access Control
+How Many Servers are Best in a Dual-Priority FCFS System?
+D-SPTF: Decentralized Request Distribution in Brick-based Storage
+Balancing Locality and Randomness in DHTs
+Scheduling Explicitly-speculative Tasks
+On the Language Inclusion Problem for Timed Automata: Closing a Decidability Gap
+Adaptive Memoization
+Algorithms for Flow Time Scheduling
+Deciding Quantier-Free Presburger Formulas using Finite Instantiation based on Parameterized Solution Bounds
+Semantic Web Technologies to Reconcile Privacy and Context Awareness
+Analyzing the Effect of Prioritized Background Tasks in Multiserver Systems
+Early Experience with an Internet Broadcast System Based on Overlay Multicast
+Efficient Support for Range Queries in DHT-based Systems
+Modling Syntax for Parsing and Translation
+Spatial Computation
+RPT: A Low Overhead Single-End Probing Tool for Detecting Network Congestion Positions
+Recasting the Feedback Debate: Benefits of Tutoring Error Detection and Correction Skills
+Efficient Constructions for One-way Hash Chains
+Bringing Tractability to Generalized N-Body Problems in Statistical and Scientific Computation
+Model Checking and Theorem Proving: A Unified Framework
+Existence of Multiagent Equilibria with Limited Agents
+A Connectionist Model of Sentence Comprehension and Production
+Rule-Based Anomaly Pattern Detection for Detecting Disease Outbreaks
+Pegasus: An Efficient Intermediate Representation
+Minimization and Reliability Analyses of Attack Graphs
+On the Complexity of MAX/MIN/AVRG Circuits
+Robotic Mapping: A Survey
+Simultaneous Mapping and Localization With Sparse Extended Information Filters: Theory and Initial Results
+Affinity Scheduling in Staged Server Architectures
+Verifiable Secret Redistribution for Threshold Sharing Schemes
+Fractal Prefetching B+-Trees: Optimizing Both Cache and Disk Performance
+Using Tarjan's Red Rule for Fast Dependency Tree Construction
+Telling Humans and Computers Apart (Automatically) orHow Lazy Cryptographers do AI
+Asymptotic Convergence of Scheduling Policies with Respect to Slowdown
+Developing a Pedagogical Domain Theory of Early Algebra Problem Solving
+The Wizard of TILT: Efficient?, Convenient, and Abstract Type Representations
+A Type System for Higher-Order Modules
+A Type System for Higher-Order Modules (Expanded Version)
+Meta-Programming with Names and Necessity
+Meta-Programming with Names and Necessity
+Effectiveness of Preference Elicitation in Combinatorial Auctions
+Using Asymmetric Distributions to Improve Classifier Probabilities:A Comparison of New and Standard Parametric Methods
+A Programming System for Children that is Designed for Usability
+Minimizing Weighted Flow Time
+Temporal Logic for Proof-Carrying Code
+Face as an index: Knowing Who Is Who Using a PDA
+Optimizations in Decision Procedures for Propositional Linear  Inequalities
+Lightweight Structure in Text
+Complexity Results about Nash Equilibria
+Game Strategies in Network Security
+Complexity of Determining Nonemptiness of the Core
+Fast Factored Density Estimation and Compression with Bayesian  Networks
+Exploring Congestion Control
+Intrusion Detection, Dignosis, and Recovery with Self-Securing Storage
+An Internet-style Approach to Managing Wireless Link Errors
+Hypertext Classification
+Web Servers Under Overload: How Scheduling Can Help
+Self-Securing Network Interfaces: What, Why and How
+Metadata Efficiency in a Comprehensive Versioning File System
+Eliminating Machine Duplicity in Traceroute-based Internet Topology Measurements
+Quantitatively Tight Sample Complexity Bounds
+Optimal Binary Trees in Online Algorithms
+Provably Secure Steganography
+Iktara in ConCert: Realizing a Certified Grid Computing Framework from a Programmer's Perspective
+Implementing a Framework for Certified Grid Computing
+Trustless Grid Computing in ConCert
+Proof Irrelevance and Strict Definitions in a Logical Framework
+Providing Contextual Information to Ubiquitous Computing Applications
+eSourcing Capability Model (eecmsm) for IT-enabled Service Providers v1.1
+eSourcing Capability Model (eSCM) Annotated Bibligraphy
+Shape Reconstruction Using Active Tactile Sensors
+Analysis of Task Assignment with Cycle Stealing
+Improving Web Performance in Broadcast-Unicast Networks
+Interactive Electronic Technical Manuals (IETMs) Annotated Bibliography
+Discriminative Distance Measures for Object Detection
+Machanisms for Internet Routing: A Study
+Profit Maximizing Mechanisms for the Extended Multicasting Game
+Estimating Available Bandwidth Using Packet Pair Probing
+FastCARS: Fast, Correlation-Award Sampling for Network Data Mining
+Operating System Support for Mobile Interactive Applications
+Tree Based Hierarchical Reinforcement Learning
+Multi-Modal Network Protocols: Adapting to Highly Variable Operating Conditions
+A Type Theory for Memory Allocation and Data Layout (Extended Version)
+SetA* Applied to Channel Routing
+A Note on Comparing Response Times in the M/GI/1/FB and M/GI/1/PS Queues
+Necessary and Sufficient Conditions for Representing General Distributions by Coxians
+Storage-based Intrusion Detection: Watching Sotrage Activity for Suspicious Behavior
+Decentralized Storage Consistency via Versioning Servers
+What Makes a Good Molecular-Scale Computer Device?
+Combining Two Forms of Type Refinements
+Cuckoo: Layered Clustering for NFS
+A System for Three-Dimensional Robotic Mapping of Underground Mines
+My Cache or Yours? Making Storage More Exclusive
+Classifying Scheduling Policies with respect to Unfairness in an M/GI/1
+LOCI: Fast Outlier Detection Using the Local Correlation Integral
+Compromising Privacy in Distributed Population-Based Databases with Trail Matching: A DNA Example
+Integrating Multiple Knowledge Sources for Utterance-Level Confidence Annotation in the CMU Communicator Spoken Dialog System
+Solving Hard AI Problems Using Computer Games
+Analysis of Cycle Stealing with Switching Cost
+Adventures in Ultra-Small-Space Clustering
+Rapid Protein Structure Detection and Assignment using Residual Dipolar Couplings
+Toward a Foundational Typed Assembly Language
+Architecture, Authorial Idioms and Early Observations of the Interface Drama Façade
+The Integrality Gap of Capacitated Facility Location
+Typed Compilation of Recursive Datatypes
+Competitive Analaysis of M/GI/1/Queueing Policies
+Simultaneous Optimization via Approximate Majorization for Concave Profits or Convex Costs
+Adaptive, Hand-Off Stream Mining
+Interactive Drama, Art and Artificial Intelligence
+Random Key Predistribution Schemes for Sensor Networks
+StackPi: A New Defense Mechanism Against IP Spoofing and DDoS Attacks
+Reducing Truth-telling Online Mechanisms to Online Optimization
+Specifying Interaction Surfaces Using Interaction Maps
+Data Mining Meets Performance Evaluation: Fast Algorithms for Modeling Bursty Traffic
+Bounds for Averaging Classifiers
+A Feasibility Study of the HLA Bridge
+Support for Interactive Heavyweight Services
+PASTENSE: A Fast Start-up Algorithm for Scalable Video Libraries
+Shape Reconstruction in a Planar Dynamic Environment
+Generalized Feature Extraction for Structural Pattern Recognition in Time-Series Data
+Duality and Auxiliary Functions for Bregman Distances
+Duality and Auxiliary Functions for Bregman Distances
+Statistical Machine Learning for Information Retrieval
+Analytical Design of Evolvable Software for High-Assurance Computing
+Toward a Practical Type Theory for Recursive Modules
+An Expressive, Scalable Type Theory for Certified Code
+What Makes a Good Molecular-Scale Computer Device?
+Track-aligned Extents: Matching Access Patterns to Disk Drive Characteristics
+Selecting the Right Data Distribution Scheme for a Survivable Storage System
+Enforcing Formal Security Properties
+Authentication Confidences
+Generalized Aliasing as a Basis for Program Analysis Tools
+eServices Capability Model (eSCM) Annotated Bibliography
+Using Unlabeled Data to Improve Text Classification
+Intelligent Tutoring Systems have Forgotten the Tutor: Adding a Cognitive Model of Human Tutors
+Locality in Search Enginer Queries and Its Implications for Caching
+Fixpoint Semantics for a Fragment of First-Order Linear Logic
+On-Demand Routing in Multi-hop Wireless Mobile Ad Hoc Networks
+IETM Usability: Using Empirical Studies to Improve Performance Aiding
+Probabilistic and On-line Methods in Machine Learning
+NetCube: A Scalable Tool for Fast Data Mining and Compression
+Scheduling Solutions for Coping with Transient Overload
+The Impact of False Sharing on Shared Congestion Management
+Stochastic Search for Signal Processing Algorithm Optimization
+BoB: An Improvisational Music Companion
+Text Detection and Translation from Natural Scenes
+Interactive Design of Rigid-Body Simulatons for Computer Animation
+Automatic Generation of Staged Geometric Predicates
+Tri-Plots: Scalable Tools for Multidimensional Data Mining
+Boosting and Maximum Likelihood for Exponential Models
+Exploring Thread-Level Speculation in Software: The Effects of Memory Access Tracking Granularity
+Timing-accurate Storage Emulation
+Word Learning in Context: Metaphors and Neologisms
+The Role of Background Knowledge in Sentence Processing
+Freeblock Scheduling Outside of Disk Firmware
+Ordered Linear Logic and Applications
+Monte Carol EM for Data-Association and its Applications in Computer Vision
+A Simplified Account of the Metatheory of Linear LF
+Verifiable Secret Redistribution
+Automating the Modeling and Optimization of the Performance of Signal Processing Algorithms
+Anomaly Detection in Embedded Systems
+"Why 6?" Defining the Operational Limits of Stide, an Anomaly-Based Intrusion Detector
+Towards Robust Teams with Many Agents
+Expanding the Interaction Lexicon for 3D Graphics
+Adaptive Functional Programming
+An Overview of the Capability Model for IT-enabled Outsourcing Service Providers
+The Capability Model for IT-enabled Outsourcing Service Providers
+Selected Papers from the Proceedings of theFourth Student Symposium on Computer Systems (SOCS-4)
+Selecting Heterogeneous Team Players by Case-Based Reasoning: A Case Study in Robotic Soccer Simulation
+Blurring the Line Between OSes and Storage Devices
+Non-Clairvoyant Scheduling for Mean Slowdown
+A Subspace Approach to Layer Extraction and Its Application to Patch-Based Structure from Motion and Video Compression
+BRUTUS: A Model Checker for Security Protocols
+Extending Mobile Computer Battery Life through Energy-Aware Adaptation
+Using Speculative Execution to Automatically Hide I/O Latency
+Scalable Real-time Parallel Garbage Collection for Symmetric Multiprocessors
+Boolean Satisfiability with Transitivity Constraints
+Partial Order Reduction for Verification of Timed Systems
+Counterexample-guided Abstraction Refinement
+Sound and Complete Elimination of Singleton Kinds
+Accelerating Exactk-means Algorithms with Geometric Reasoning
+Combining Theory Generation and Model Checking for Security Protocol  Analysis
+
+Combining Decision Diagrams and SAT Procedures for Efficient  Symbolic Model Checking
+Manipulation of Pose Distributions
+Packet Fair Queueing Algorithms for Wireless Networks with Location-Dependent Errors
+Solving large Problems Quickly: Progress in 1999
+Evaluation of Task Assignment Policies for Supercomputing Servers: The Case for Load Unbalancing and Fairness
+Mixed-nets: Factored Mixtures of Gaussians in Bayesian Networks with Mixed Continuous and Discrete Variables
+REUNITE: A Recursive Unicast Approach to Multicast
+Automated Formula Generation and Performance Learning for the FFT
+Spatial Join Selectivity Using Power Laws
+Robust Monte Carlo Localization for Mobile Robots
+Probabilistic Algorithms in Robotics
+AVID: Automatic Visualization Interface Designer
+Design and Implementation of a Self-Securing Storage Device
+Towards Higher Disk Head Utilization: Extracting "Free" Bandwidth From  Busy Disk Drives
+Resource Signal Prediction and Its Application to Real-time Scheduling Advisors
+Two Case Studies in Using Cognitive Walkthrough for Interface Evaluation
+Direct Deposit - When Message Passing Meets Shared Memory
+Secure Continuous Biometric-Enhanced Authentication
+Machine Learning in Metrical Task Systems and Other On-line Programs
+Operating System Management of MEMS-based Storage Devices
+Designing Computer Systems With MEMS-based Storage
+A Secure Human-Computer Authentication Scheme
+BitValue Inference: Detecting and Exploiting Narrow Bitwidth Computations
+FALCON: Feedback Adaptive Loop for Content-based Retrieval
+Applying Inductive Program Synthesis to learning Domain-Dependent Control Knowledge - Transforming Plans into Programs
+EM, MCMC, and Chain Flipping for Structure from Motion with Unknown Correspondence
+Active Disk Architecture for Databases
+Automating the Meta Theory of Deductive Systems
+Discovery and Application of Network Information
+On Equivalence and Canonical Forms in the LF Type Theory
+Analysis of SRPT Scheduling: Investigating Unfairness
+Resource Management in Multi-hop Ad Hoc Networks
+Selective Enumeration
+Using Handheld Devices for Tests in Classes
+Singleton Kinds and Singleton Types
+Task-Driven Computing
+Assessing the Calibration of Naive Bayes' Posterior Estimates
+The Hardness of Approximating Minima in OBDDs, FBDDs and Boolean Functions
+My Cache or Yours? Making Storage More Exclusive
+Protecting Individuals' Interests in Electronic Commerce Protocols
+Preliminary Proceedings of the Third Workshop on Types in Compilation (TIC 2000)
+Formal Modeling of the Enterprise JavaBeans Component Integration Framework
+Believable Automatically Synthesized Motion by Knowledge-Enhanced  Motion Transformation
+The Realizability Approach to Computable Analysis and Topology
+An Analysis of Stochastic Game Theory for Multiagent Reinforcement Learning
+Hierarchical Radiosity with Multiresolution Meshes
+An Online Mapping Algorithm for Teams of Mobile Robots
+Survivability Analysis of Networked Systems
+Documenting Software Architectures: Recommendations for Industrial  Practice
+Implementation of SRPT Scheduling in Web Servers
+Improving Trigram Language Modeling with the World Wide Web
+A Performance Comparison of Interval Arithmetic and Error Analysis in Geometric Predicates
+Building Firewalls with Intelligent Network Interface Cards
+Enabling Dynamic Security Management of Networked Systems via Device-Embedded Security
+Elimination of Negation in a Logical Framework
+Stateless Core: A Scalable Approach for Quality of Service in the  Internet
+Improving Index Performance through Prefetching
+Scalable and Manageable Storage Systems
+Comparison of SRPT and PS Scheduling Under ON/OFF Load Conditions
+Implementing the TILT Internal Language
+Simple, Efficient Object Encoding using Intersection
+Symbolic Model Checking without BDDs
+Comparing Methods for Multivariate Nonparametric Regression
+Program Slicing of Hardware Description Languages
+Machine Learning for Information Extraction in Informal Domains
+Quadric-Based Polygonal Surface Simplification
+Motion Transformation by Physically Based Spacetime Optimization
+A Real-Time Push-Pull Communications Model for Distributed Real-Time and Multimedia Systems
+A Guassian Prior for Smoothing Maximum Entropy
+Distance Exponent: A New Concept for Selectivity Estimation in  Metric Trees
+Scalable Concurrency Control and Recovery for Shared Storage Arrays
+Density Biased Sampling: An Improved Method for Data Mining and Clustering
+Iterative Macro-Operators Revisited: Applying Program Synthesis to  Learning in Planning
+Processor Verification Using Efficient Reductions of the Logic of Uninterpreted Functions to Propositional Logic
+Experiences Designing and Building a Multi-Hop Wireless Ad Hoc  Network Testbed
+Neural Network-Based Face Detection
+Optimizing Symbolic Model Checking for Constraint-Rich Models
+Space-efficient Scheduling for Parallel, Multithreaded Computations
+A Monte Carlo Algorithm for Multi-Robot Localization
+Scheduling Threads for Low Space Requirements and Good Locality
+Learning State Features from Policies to Bias Exploration in  Reinforcement Learning
+The Simple Language Generator: Encoding Complex Languages with  Simple Grammars
+Formalizing a Specification for Analysis: The HLA Ownership Properties
+Appearance-Based Virtual View Generation of Temporally-Varying Events from Multi-Camera Images in the 3D Room
+Building Whole Applications Using Only Programming-by-Demonstration
+Optimizing Model Checking Based on BDD Characterization
+Theory Generation for Security Protocols
+Mapping Eye Movements to Cognitive Processes
+Reinforcement Learning Through Gradient Descent
+Providing Guaranteed Services Without Per Flow Management
+Bayesian Network Induction via Local Neighborhoods
+The Design of Program Analysis Services
+Optimizing a Solver of Polymorphism Constraints: SEMI
+An Extensible Toolkit For Resource Prediction In Distributed Systems
+An Implementation Architecture to Support Single-Display Groupware
+Dynamic Function Placement in Active Storage Clusters
+Respectful Type Converters For Mutable Types
+Approximate Solutions to Markov Decision Processes
+A Scalable Solution to the Multi-Resource QoS Problem
+Symbolic Model Checking using SAT Procedures Instead of BDDs
+Verifying Safety Properties of a PowerPCTMMicroprocessor Using Symbolic Model Checking without BDDs
+A Survey of Rollback-Recovery Protocols in Message-Passing Systems
+Automatic Representation Changes in Problem Solving
+Data Mining on an OLTP System (Nearly) for Free
+A Modal Analysis of Staged Computation
+Embedded Security for Network-Attached Storage
+Deciding Type Equivalence in a Lanugage with Singleton Kinds
+Behavioral Subtyping Using Invariants and Constraints
+On Equivalence and Canonical Forms in the LF Type Theory
+Rapid Development of Custom Software Architecture Design Environments
+Task Assignment with Unknown Duration
+LENS: The light, efficient network simulator
+On Quality of Service Management
+Coscheduling of Computation and Communication Resources in Push-Pull Communications to Provide End-to-End QoS Guarantees
+Supporting Best-Effort Traffic with Fair Service Curve
+Slim-trees: High Performance Metric Trees Minimizing Overlap Between Nodes
+Online Data Mining for Co-Evolving Time Sequences
+Systematic Parallel Programming
+Developing Theories of Types and Computability via Realizability
+Filling the Memory Access Gap: A Case for On-Chip Magentic Storage
+Classifying Adversarial Behaviors in a Dynamic Inaccessbile Multi-Agent Environment
+Automated Disk Drive Characterization
+Active Disks - Remote Execution for Network-Attached Storage
+Run-time Code Generation and Modal-ML
+Natural Programming: Project Overview and Proposal
+Mediating Among Diverse Data Formats
+Selected Reports: Fall 1997 Software Systems Course
+Selective Enumeration - A Formal Definition
+Automating Computational Molecular Genetics: Solving the Microsatellite Genotyping Problem
+Compositional Reasoning in Model Checking
+The Fox Project: Advanced Language Technology for Extensible Systems
+Situation-Dependent Learning for Interleaved Planning and Robot Execution
+Informedia News-On Demand: Using Speech Recognition to Create A Digital Video Library
+Improving Acoustic Models by Watching Television
+Stochastic Voting Protocol
+A Nitpick Analysis of Mobile IPV6
+Translucent Cache Management for Mobile Computing
+Proving Correctness of a Controller Algorithm for the Raid Level 5  System
+Mobile Data Access
+Mindreader: Querying Databases through Multiple Examples
+Using EM to Classify Text from Labeled and Unlabeled Documents
+Verification of Floating-Point Adders
+Combining Symbolic Model Checking with Uninterpreted Functions for Out-Of-Order Processor Verification
+Relational Interpretations of Recursive Types in an Operational  Setting
+Accurate Modeling of Region Data
+Experiments with Parallel Pointer-Based Algorithms
+Efficient Irregular Computation on High-Bandwidth Pipelined-Memory Multiprocessors
+Respectful Type Converters
+Arithmetic Circuit Verification Based on Word-Level Decision  Diagrams
+Algorithm Evolution with Internal Reinforcement for Signal Understanding
+A Building Model Evaluation Suite Using the CMU Site Exchange Format
+Robust Exchange of Cartographic Models for Buildings and Roads:The CMU MAPSLab Site Exchange Format
+Intensional Investigations
+Core-Stateless Fair Queueing: Achieving Approximately Fair Bandwidth Allocations in High Speed Networks
+Selectivity Estimation of Window Queries for Line Segment Datasets
+Quality-of-Service Routing in Integrated Services Networks
+Experiences with an Interactive Museum Tour-Guide Robot
+Compiler and Hardware Support for Automatic Instruction Prefetching: A Cooperative Approach
+A Framework for Programming Embedded Systems: Initial Design and Results
+The Statistical Properties of Host Load
+The Measured Network Traffic of Compiler-Parallelized Programs
+MacFS: A Portable Macintosh File System Library
+On Distributed Network Resource Allocation
+Planning under Uncertainty in Dynamic Domains
+An Evaluation of Linear Models for Host Load Prediction
+Beagle: A Resource Allocation Protocol for Advanced Services Internet
+Anti-Boxology: Agent Design in Cultural Context
+Learning Evaluation Functions for Global Optimization
+The Case for an Open Data Model
+Compiling with Proofs
+Usability of Security: A Case Study
+On the Kahn Principle and Fair Networks
+Performance Characteristics of Mirror Servers on the Internet
+Research in Image Understanding and Automated Cartography: 1997-1998
+Parallelizing and De-parallelizing Elimination Orders
+Automated Cartographic Feature Attribution Using Panchromatic and Hyperspectral Imagery
+Ordered Binary Decision Diagrams and Minimal Trellises
+Capturing Sofware Architecture Design Expertise with Armani(Version 1.0)
+Capturing Sofware Architecture Design Expertise with Armani(Version 2.3)
+Admissibility of Fixpoint Induction over Partial Types
+An Approach for Quality of Service Management
+An Approach for Quality of Service Management
+A Probabilistic Method for Tracking a Vocalist
+A Case for Customizable Resource Management in Networks
+What is a Recursive Module?
+Software-Controlled Multithreading Using Informing Memory Operations
+Extending Cache Coherence to Support Thread-Level Data Speculation on a Single Chip and Beyond
+Supporting Online Services in Environments Constrained by Communication
+Twelf User's Guide (Version 1.2)
+The Case for Prediction-based Best-effort Real-time Systems
+The Statistical Properties of Host Load (Extended Version)
+Edge Coloring, Polyhedra and Probability
+Transparent and Opaque Interpretations of Datatypes
+Stack-Based Typed Assembly Language
+Monte Carlo Hidden Markov Models
+Integrity and Performance in Network Attached Storage
+Ordered Linear Logic Programming
+A Parallel, Multithreaded Decision Tree Builder
+The Dynamics of Cognition: An ACT-R Model of Cognitive Arithmetic
+Layered Learning in Multi-Agent Systems
+A Symbiotic Relationship Between Formal Methods and Security
+A Numerical Optimization Approach to General Graph Drawing
+STRIPE: Remote Driving Using Limited Image Data
+Statistical Selection Among Problem-Solving Methods
+Improving Demonstration Using Better Interaction Techniques
+Simulating Soft Shadows with Graphics Hardware
+A Compositional Proof System for the Modal mu-calculus and CCS
+Level Spacings for SL(2,p)
+Using Optimal Dependency-Trees for Combinatorial Optimization: Learning the Structure of the Search Space
+Design and Implementation of Code Optimizations for a  Type-Directed Compiler for Standard ML
+Guiding Interactive Drama
+Video Skimming and Characterization through the Combination of  Image and Language Understanding Techniques
+Semantics-Based Parallel Cost Models and Their Use in Provably  Efficient Implementations
+The Prodigy User Interface
+An Empirical Comparison of Radiosity Algorithms
+Preliminary Results on the Analysis of HYDICE Data for Information Fusion in Cartographic Feature Extraction
+Filesystems for Network-Attached Secure Disks
+Using Speech and Natural Language Technology in Language  Intervention
+Breadth-First with Depth-First BDD Construction: A Hybrid Approach
+Subtyping for Distributed Object Stores (Extended Abstract)
+Translucent Sums: A Foundation for Higher-Order Module Systems
+Believable Agents: Building Interactive Personalities
+The Essence of Parallel Algol
+A Linear Spine Calculus
+Idealized CSP: Combining Procedures with Communicating Processes
+An Evaluation of Statistical Approaches to Text Categorization
+Service Decomposition: A Structuring Principle for Flexible,  High-Performance Operating Systems
+Implementation and Evaluation of an Efficient 2D Parallel Delaunay  Triangulation Algorithm
+Creating Dynamic World Wide Web Pages by Demonstration
+Parallel Gaussian Elimination with Liearn Work and Fill
+*PBHD: An Efficient Graph Representation for Floating Point Circuit Verification
+Fusion-Based Register Allocation
+Factoring Polynomials Modulo Composites
+Delaunary Refinement Mesh Generation
+Model Checking for Security Protocols
+Accurate Approximations for European-Style Asian Options
+A Transactional Approach to Redundant Disk Array Implementation
+RAIDframe: A Rapid Prototyping Tool for RAID Systems
+A Practical Parameterization of 2 and 3 Degree of Freedom Rotations
+A Formal Approach to Software Architecture
+Coordinating Foreign Modules with a Parallelizing Compiler
+Skin-Color Modeling and Adaptation
+An Interpretation of Standard ML in Type Theory
+Vocal Tract Length Normalization for Large Vocabulary Continuous  Speech Recognition
+Hybrid Spectral Transform Diagrams
+A Model for a List-oriented Extension of the Lambda Calculus
+Large-scale Topic Detection and Language Model Adaptation
+Towards a Formal Treatment of Implicit Invocation
+A Hierarchical Fair Service Curve Algorithm for Link-Sharing,  Real-time and Priority Services
+Operating System Resource Reservation for Real-Time and Multimedia  Applications
+An Oz-Centric Review of Interactive Drama and Believable Agents
+Combining Multiple Optimization Runs with Optimal Dependency Trees
+Modeling and Simulating A Software Architecture Design Space
+Automatic Program Specialization for Interactive Media
+Linear Higher-Order Pre-Unification
+The Options Approach to Software Prototyping Decisions
+Formal Verification of Memory Arrays
+On-Line Algorithms in Machine Learning
+Generating Code for High-Level Operations through Code Composition
+Beyond the Cognitive Map: Contributions to a Computational  Neuroscience Theory of Rodent Navigation
+Geometric Tools for Algorithms
+Secure Mobile Computing: Final Report 1993-97
+Using Option Pricing to Value Commitment Flexibility in Multi-agent Systems
+Hybrid Algorithms for On-Line Search and Combinatorial Optimization Problems
+Efficient Representation and Validation of Logical Proofs
+Lattice Based Language Models
+Predicting Data Cache Misses in Non-Numeric Applications Through Correlation Profiling
+Effects of Data Passing Semantics and Operating Systems Structure on Network I/O Performance
+New Approximation Techniques for Some Ordering Problems
+Spark98: Sparse Matrix Kernels for Shared Memory and Message Passing Systems
+Practical and Theoretical Issues in Prefetching and Caching
+A Tracker for Broken and Closely-Spaced Lines
+A Probabilistic Approach for Concurrent Map Acquisition and Localization for Mobile Robots
+Architectural Support for Thread-Level Data Speculation
+Architectural Implications of a Family of Irregular Applications
+Protocols for Asymmetric Communication Channels
+Modeling and Interpreting Multimodal Inputs: A Semantic Integration Approach
+Multiagent Systems: A Survey from a Machine Learning Perspective
+ReMoS: A Resource Monitoring System for Network-Award Applications
+Darwin: Resource Management for Application-Aware Networks
+Practical Parallel Divide-and-Conquer Algorithms
+Active Disks - Remote Execution for Network-Attached Storage
+Goal-Directed Acting with Incomplete Information
+Rotation Invariant Neural Network-Based Face Detection
+Multitask Learning
+Informed Prefetching and Caching
+Research in the Automated Analysis of Remotely Sensed Imagery:  1994-1995
+Progress in Automated Virtual World Construction
+Signature and Specification Matching
+Recognition of the Multi Specularity Objects using the Eigen-Window
+Automatic Modeling and Localization for Object Recognition
+Interactive Sketching for the Early Stages of User Interface Design
+A Practical Approach to Replication of Abstract Data Objects
+Scheduling Dependent Real-Time Activities
+1058
+1058

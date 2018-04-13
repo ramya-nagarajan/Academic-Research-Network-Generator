@@ -1,0 +1,5 @@
+Tokens: ['Chip', 'Multiprocessors', 'for', 'Server', 'Workloads']
+
+POS Tagged tokens:[('Chip', 'NN'), ('Multiprocessors', 'NNS'), ('for', 'IN'), ('Server', 'NN'), ('Workloads', 'NNS')]
+
+Candidates: ['Chip', 'Multiprocessors', 'Server', 'Workloads', 'Chip Multiprocessors', 'Server Workloads']

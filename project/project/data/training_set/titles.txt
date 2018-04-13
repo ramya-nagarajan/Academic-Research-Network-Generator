@@ -1,0 +1,200 @@
+Physics-Based Robot Motion Planning in Dynamic Multi-Body Environments
+Time-Varying Gaussian Graphical Models of Molecular Dynamics Data
+Interactive Machine Learning in Diamond
+Statistical Modeling of Spiking Activity in Large Scale Neuronal Networks
+Privacy-Preserving Distributed, Automated Signature-Based Detection of New Internet Worms
+Model Checking Omega Cellular Automata
+Network-Wide Deployment of Intrusion Detection and Prevention  Systems
+Type-Safe Web Programming in QWeS2T
+Quantified Differential Dynamic Logic for Distributed Hybrid Systems
+An Access Network Architecture for Neighborhood-scale Multimedia  Delivery
+Image Editing and Creation with Perception-Motivated Local Features
+Model Validation and Discovery for Complex Stochastic Systems
+Local Multiagent Coordination in Decentralized MDPs with Sparse  Interactions
+Type Safety for Substructural Specifications: Preliminary Results
+New Algorithms for Preserving Differential Privacy
+Algorithms and Models for Problems in Networking
+Effective Network Management via System-Wide Coordination and  Optimization
+Refinement Types for Logical Frameworks
+Taking Tekkotsu Out Of The Plane
+Introductory Computer Science Education at Carnegie Mellon University: A Dean's Perspective
+Reusing Migration to Simply and Efficiently Implement Multi-server  Operations in Transparently Scalable Storage Systems
+The Approximability of Learning and Constraint Satisfaction Problems
+Bringing the Cloud Down to Earth: Transient PCs Everywhere
+QMAS: Querying, Mining and Summarization of Multi-modal Databases
+CO, an Imperative Programming Language for Novice Computer  Scientists
+Programmable Self-Adjusting Computation
+Weak Focusing for Ordered Linear Logic
+Towards a Design Model for Women's Empowerment in the Developing  World
+A Practical System for Centralized Network Control
+Instrumentation Analysis: An Automated Method for Producing Numeric  Abstractions of Heap-Manipulating Programs
+Principles of Constructive Provability Logic
+Multiple-Cue Object Recognition for Interactionable Objects
+Scheduling Irregular Parallel Computations on Hierarchical Caches
+XIA: An Architecture for an Evolvable and Trustworthy Internet
+Spare a Little Change? Towards a 5-Nines Internet in 250 Lines of Code
+On the Semantics of Purpose Requirements in Privacy Policies
+Maximizing Spatial Reuse in Indoor Environments
+Automated Physical Design: A Combinatorial Optimzation Approach
+Dependently Typed Programming with Domain-Specific Logics
+A Case for World-wide Network Measurement using Smartphones and  Open Marketplaces
+Adaptive Cruise Control: Hybrid, Distributed, and Now Formally  Verified
+The von Mises Graphical Model: Structure Learning
+On Markov-Krein Characterization of Mean Sojourn Time in Queueing  Systems
+Logical, Metric, and Algorithmic Characterisations of Probabilistic Bisimulation
+Stochastic Differential Dynamic Logic for Stochastic Hybrid Programs
+The Structure of Differential Invariants and Differential Cut Elimination
+Using Expressiveness to Increase Efficiency in Social and Economic Mechanisms
+Stochastic Models and Analysis for Resource Management in Server Farms
+KeySlinger and StarSlinger: Secure Key Exchange and Encrypted File Transfer  on Smartphones
+Structured Probabilistic Models of Proteins across Spatial and Fitness  Landscapes
+RPT: Re-architecting Loss Protection for Content-Aware Networks
+WiMed: An Infrastructure-less Approach to Wireless Diagnosis
+End-to-end Tracing in HDFS
+Mesh Generation and Geometric Persistent Homology
+A New Architecture for Cloud Rendering and Amortized Graphics
+Smoke Sheets and Vortex Filaments with Flexible Reconnection
+Sticky-Finger Manipulation with a Multi-Touch Interface
+Designing an Interface and Path Translator for a Smartphone Based Indoor Navigation System for Visually Impaired Users
+Compression of Physical Simulations for Mobile Virtual Worlds
+Fast Algorithms for Mining Co-evolving Time Series
+The von Mises Graphical Model: Regularized Structure and Parameter Learning
+The von Mises Graphical Model: Expectation Propagation for Inference
+Energy-efficient Data-intensive Computing with a Fast Array of Wimpy  Nodes
+A Contact Sheet Approach to Searching Untagged Images on Smartphones
+Mining and Querying Multimedia Data
+Performance Insulation: More Predictable Shared Storage
+Collaborating with Executable Content Across Space and Time
+Learning Ancestral Genetic Processes using Nonparametric Bayesian  Models
+Bayesian Statistical Model Checking with Application to Stateflow/Simulink Verification
+Search Tree Restructuring
+Segment based Internetworking to Accommodate Diversity at the Edge
+Computing Equilibria by Incorporating Qualitative Models
+Understanding Route Aggregation
+Analysis of Scheduling Policies under Correlated Job Sizes
+Energy-Efficient Dynamic Capacity Provisioning in Server Farms
+Safe Transient Use of Local Storage for VM-based Mobility
+The Manna Plug-In Architecture for Content-based Search of VM Clouds
+Pocket ISR: Virtual Machines Anywhere
+Locally Distributed Predicates: A Technique for Distributed Programming
+Learning Generative Models for Protein Fold Families
+Typed Multiset Rewriting Specifications of Security Protocols
+MSR 2.0: Language Definition and Programming Environment
+The Complete Proof Theory of Hybrid Systems
+Relating Reasoning Methodologies in Linear Logic and Process Algebra
+Cloud Offload in Hostile Environments
+A Scientific Understanding of Keystroke Dynamics
+Testing Properties of Boolean Functions
+Axiomatic Analysis of Co-occurrence Similarity Functions
+Near Real-Time Inference of File Level Mutations from Virtual Disk  Writes
+Secure and Efficient Network Fault Localization
+Is Structural Subtyping Useful? An Empirical Study
+Coordinated Sampling sans Origin-Destination Identifiers: Algorithms, Analysis, and Evaluation
+Confidence-Based Robot Policy Learning from Demonstration
+Local Linear Semi-supervised Regression
+Learning by Combining Native Features with Similarity Functions
+Parallel LBA: Coherence-based Parallel Monitoring of Multithreaded  Applications
+Statistical Model Checking for Complex Stochastic Models in Systems Biology
+Learning to Improve Negotiation in Semi-Cooperative Agreement  Problems
+Thresholded-Rewards Decision Problems: Acting Effectively in Timed Domains
+Optimal Power Allocation in Server Farms
+Self-Adaptive Admission Control Policies for Resource Sharing  Systems
+Domain Adaptation of Translation Models for Multilingual  Applications
+Principal Centric Reasoning in Constructive Authorization Logic
+Proof Search in an Authorization Logic
+The Logical Basis of Evaluation Order and Pattern Matching
+A Proof-Carrying File System
+Nonlinear Switching State-Space Models for aCGH Analysis
+A Case for a RISC Architecture for Network Flow Monitoring
+Algorithms for Abstracting and Solving Imperfect Information Games
+Efficient and Robust Signal Approximations
+Speech Interfaces for Information Access by Low Literate Users
+Theory and New Primitives for Interconnecting Routing Protocol Instances
+Low-Depth Cache-Oblivious Algorithms
+TheBlindMen and theElephant: Piecing Together Hadoop for Diagnosis
+Making Contribution-Aware Peer-Assisted Content Distribution Robust to Collusion Using Bandwidth Puzzles
+A Simple Proof of Call-by-Value Standardization
+A Logical Representation of Common Rules for Controlling Access to Classified Information
+PCAL: Language Support for Proof-Carrying Authorization Systems
+Measuring and Injecting Latency in Web Apps
+Log-based Approaches to Characterizing and Diagnosing MapReduce  Systems
+Contractual Anonymity
+Quantifying and Mitigating Privacy Threats in Wireless Protocols and Services
+Efficient Byzantine Fault Tolerance for Scalable Storage and  Services
+Formal Verification of Curved Flight Collision Avoidance Maneuvers: A Case Study
+A Learning Perspective on Selfish Behavior in Games
+Chip Multiprocessors for Server Workloads
+Large Scale Scene Matching for Graphics and Vision
+CZ: Multimethods and Multiple Inheritance Without Diamonds
+Formal Methods for Privacy
+A Hybrid Logical Framework
+Efficient Mesh Generation for Piecewise Linear Complexes
+Towards a More Principled Compiler: Register Allocation and Instruction Selection Revisited
+CPU Performance Counter-Based Problem Diagnosis for Software Systems
+Fast Cache for Your Text: Accelerating Exact Pattern Matching with Feed-Forward Bloom Filters
+Coding Without Your Crystal Ball: Unanticipated Object-Oriented Reuse
+Hyrax: Cloud Computing on Mobile Devices using MapReduce
+Authenticated Communication and Computation in Known-Topology Networks with a Trusted Authority
+M/G/k with Exponential Setup
+Matching Markets: Design and Analysis
+Proof Theory for Authorization Logic and Its Applications to a Practical File System
+Register Allocation Aware Instruction Selection
+Probabilistic Plan Management
+Properties of Multi-Splay Trees
+Better Scalable Algorithms for Broadcast Scheduling
+Collaborative Online Video Watching
+Structure Learning for Generative Models of Protein Fold Families
+Searching Complex Data Without an Index
+Hidden Process Models
+Adaptive Binary Search Trees
+Extending Automated Compositional Verification to the Full Class of Omega-Regular Languages
+Focusing on Binding and Computation
+Efficient Craig Interpolation for Linear Diophantine (Dis)Equations and Linear Modular Equations
+Computing Differential Invariants of Hybrid Systems as Fixedpoints
+Increasing the Scalability of Dynamic Web Applications
+The Effect of Higher Moments of Job Size Distribution on the Performance of anM/G/K/Queueing System
+Using Tensor Analysis to Characterize Contact-Map Dynamics of Proteins
+Space Profiling for Parallel Functional Programs
+Learning Domain-Specific Planners from Example Plans
+Volumetric Features for Video Event Detection
+Uniquely Represented Data Structures for Computational Geometry
+Transient Customization of Mobile Computing Infrastructure
+Modeling Variation in Motion Data
+Conditional Random Fields for Activity Recognition
+Integrating Nominal and Structural Subtyping
+Instability Free Routing: Beyond One Protocol Instance
+Information Mediation in the Presence of Constraints and  Uncertainties
+Modal Types for Mobile Code
+Extracting Conditional Confidentiality Policies
+A Bidirectional Refinement Type System for LF
+Controlling Multibody Dynamics cia Browsing and Time Reversal
+A Logic for Reasoning About Time-Dependent Access Control Policies
+The Open Diamond&reg;Platform for Discard-based Search
+Measuring the Attack Surfaces of SAP Business Applications
+Uniquely Represented Data Structures with Applications to Privacy
+A Vendor-Neutral Library and Viewer for Whole-Slide Images
+Effective Motion Tracking Using Known and Learned Actuation Models
+A Scalable Database Approach to Computing Delaunay Triangulations
+Smart Phones as Self-Cleaning Portable Caches for Infrastructure-Based Mobile Computing
+A Cost Semantics for Self-Adjusting Computation
+Evolution Styles - Formal Foundations and Tool Support for Software Architecture Evolution
+Expandable Grids: A User Interface Visualization Technique and a Policy Semantics to Support Fast, Accurate Security and Privacy Policy Authoring
+Sharing DBMS among Multiple Users while Providing Performance Isolation: Analysis and Implementation
+Verification using Satisfiability Checking, Predicate Abstraction, and Craig Interpolation
+Efficient Algorithms for Path Problems in Weighted Graphs
+Putting the "Scalability" into Database Scalability Services
+Towards Inference and Learning in Dynamic Bayesian Networks using Generalized Evidence
+An Attack Surface Metric
+New Theoretical Frameworks for Machine Learning
+Discovering Web Structure with Multiple Experts in a Clustering Framework
+A Computational Framework for the Analysis of Multi-Species Microarray Data
+Making Contribution-Aware P2P Systems Robust to Collusion Attacks Using  Bandwidth Puzzles
+Traffic Analysis for Network Security using Learning Theory and Streaming Algorithms
+Improving the Deployability of Diamond
+Analysis and Defense of Vulnerabilities in Binary Code
+Holistic Query Transformations for Dynamic Web Applications
+A Graphical Model Approach for Predicting Free Energies of Association for Protein-Protein Interactions under Backbone and Side-Chain  Flexibility
+Techniques for Exploiting Unlabeled Data
+Evaluating Predicates over Encrypted Data
+CZ: Multiple Inheritance Without Diamonds
+The Butterfly Model: Theoretical Foundations

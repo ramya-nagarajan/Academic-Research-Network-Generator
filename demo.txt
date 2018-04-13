@@ -1,0 +1,29 @@
+Learning Spectral Clustering with application to speech separation
+POS Tagged tokens:[('Learning', 'NNP'), ('Spectral', 'JJ'), ('Clustering', 'NN'), ('with', 'IN'), ('application', 'NN'), ('to', 'TO'), ('speech', 'NN'), ('separation', 'NN')]
+Candidates: ['Learning', 'Spectral', 'Clustering', 'application', 'speech', 'separation', 'Spectral Clustering', 'speech separation']
+Keyphrases: ['Spectral Clustering', 'speech separation', 'Clustering']
+
+
+Apprenticeship Learning for Helicopter Control
+POS Tagged tokens:[('Apprenticeship', 'NN'), ('Learning', 'NN'), ('for', 'IN'), ('Helicopter', 'NN'), ('Control', 'NN')]
+Candidates: ['Apprenticeship', 'Learning', 'Helicopter', 'Control', 'Apprenticeship Learning', 'Helicopter Control']
+Keyphrases: ['Apprenticeship Learning', 'Helicopter Control']
+
+
+Spectral Clustering  and  Apprenticeship Learning
+Phrase 1:  [1, 3, 1, 1, 3, 0, 0, 1, 2, 0]
+Phrase 2:  [6, 1, 2, 8, 3, 0, 0, 1, 1, 0]
+Dissimilar words
+
+Spectral Clustering and Helicopter Control
+Phrase 1:  [1, 1, 10, 6, 0]
+Phrase 2:  [1, 1, 2, 1, 0]
+0.9009
+
+speech separation  and  Apprenticeship Learning
+Phrase 1:  [0, 1, 1]
+Phrase 2:  [1, 1, 1]
+Dissimilar words
+
+
+Similar --- since 'Spectral Clustering' and 'Helicopter Control' are similar

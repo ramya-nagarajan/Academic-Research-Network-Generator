@@ -1,0 +1,124 @@
+model checking	-3.1695
+statistical model	-5.3669
+stateflow simulink verification	-6.2265
+stateflow simulink	-6.5205
+bayesian model	-5.0792
+search tree restructuring	13.0496
+tree restructuring	-4.7658
+search tree	-3.8634
+segment	-6.5177
+qualitative models	-3.8595
+computing	-4.4894
+route aggregation	-4.8802
+scheduling policies	-3.3552
+correlated job sizes	-6.8721
+scheduling	-5.4013
+dynamic capacity	-4.6742
+server farms	-5.788
+vm-based mobility	-2.0794
+local storage	-6.9865
+transient use	-7.5093
+content-based search	-3.5811
+clouds	-8.4627
+vm	-8.0342
+virtual machines	-5.4989
+machines	-6.9489
+generative models	-3.1628
+models	-6.3018
+robot motion planning	-3.2524
+motion planning	-3.6378
+dynamic environments	-4.9661
+multi-body environment	5.7965
+predicates	-3.6281
+graphical models	-4.5278
+molecular dynamics	-5.9392
+machine learning	-3.4177
+interactive machine learning	-4.3218
+statistical modeling	-4.4941
+neuronal networks	-6.0729
+modeling	-5.0243
+signature-based detection	-4.0742
+internet worms	-4.7996
+cellular automata	-3.9026
+model	-6.9056
+intrusion detection	-6.6249
+intrusion prevention	-6.7898
+web	-9.2504
+type-safe web programming	12.3564
+dynamic logic	-3.6415
+hybrid systems	-4.1707
+image creation	-6.8275
+image editing	-7.54
+model validation	-2.9177
+stochastic systems	-3.6761
+multiagent coordination	-3.108
+mdps	-6.1644
+decentralized mdps	-3.9075
+sparse interactions	-3.6033
+substructural specifications	-1.9459
+type safety	-6.522
+differential privacy	-4.9592
+networking	-8.9732
+algorithms	-5.1539
+models	-6.3018
+system-wide optimization	-6.7384
+optimization	-6.9061
+effective network	-6.9154
+network management	-7.178
+refinement types	-4.1492
+logical frameworks	-4.7787
+scalable storage	-6.5323
+storage systems	-7.6092
+multi-server operations	-8.7369
+satisfaction problems	-4.371
+constraint satisfaction	-4.4437
+learning	-6.794
+transient pcs	8.7222
+cloud	-11.0711
+multi-modal databases	-3.3635
+mining	-6.2963
+summarization	-5.212
+imperative programming	-4.9094
+programming language	-4.6235
+design model	-5.2876
+model	-6.9056
+design	-7.3742
+centralized network	-4.8185
+network control	-4.8247
+centralized network control	-9.9035
+numeric abstractions	-4.9337
+heap-manipulating programs	-5.4512
+instrumentation analysis	-7.8091
+constructive provability	-6.408
+provability logic	-5.885
+constructive provability logic	5.6625
+object recognition	-4.7522
+multiple-cue object recognition	-7.9862
+internet	-8.8632
+xia	-7.0577
+internet	-8.8632
+5-nines internet	12.8265
+semantics	-3.9276
+purpose requirements	-5.4602
+privacy policies	-8.4244
+indoor environments	-5.9383
+spatial reuse	-3.3626
+combinatorial optimzation approach	4.8679
+optimzation approach	2.1529
+physical design	-5.6639
+automated design	-5.2853
+neighborhood-scale multimedia	13.0496
+network architecture	-4.3728
+access network	-5.5688
+access network architecture	-6.4248
+introductory computer science	-3.6546
+computer science	-3.9459
+carnegie mellon university	-4.817
+caches	-5.3357
+parallel computations	-3.2028
+hierarchical caches	-5.5827
+self-adjusting computation	-3.6749
+computation	-4.8708
+linear logic	-3.9484
+tekkotsu	-5.0794
+-11.0711

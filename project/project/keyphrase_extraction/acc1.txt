@@ -1,0 +1,257 @@
+True Pos: ['statistical model', 'model checking', 'stateflow simulink', 'stateflow simulink verification']
+False Neg: []
+False Pos: []
+True Neg: ['model', 'checking', 'application', 'simulink', 'verification', 'simulink verification', 'statistical model checking']
+
+True Pos: ['tree restructuring', 'search tree restructuring']
+False Neg: ['search tree']
+False Pos: []
+True Neg: ['search', 'tree', 'restructuring']
+
+True Pos: ['segment']
+False Neg: []
+False Pos: []
+True Neg: ['diversity', 'edge']
+
+True Pos: ['computing', 'qualitative models']
+False Neg: []
+False Pos: []
+True Neg: ['equilibria', 'models']
+
+True Pos: []
+False Neg: ['route aggregation']
+False Pos: ['aggregation', 'understanding route']
+True Neg: ['understanding', 'route', 'understanding route aggregation']
+
+True Pos: ['scheduling', 'scheduling policies']
+False Neg: ['correlated job sizes']
+False Pos: ['job sizes']
+True Neg: ['analysis', 'policies', 'job', 'sizes', 'correlated job']
+
+True Pos: ['dynamic capacity', 'server farms']
+False Neg: []
+False Pos: []
+True Neg: ['capacity', 'server', 'farms']
+
+True Pos: ['transient use', 'local storage', 'vm-based mobility']
+False Neg: []
+False Pos: []
+True Neg: ['safe', 'use', 'storage', 'mobility']
+
+True Pos: ['content-based search']
+False Neg: ['vm', 'clouds']
+False Pos: ['architecture', 'plug-in architecture']
+True Neg: ['manna', 'search']
+
+True Pos: ['machines', 'virtual machines']
+False Neg: []
+False Pos: []
+True Neg: ['pocket', 'isr']
+
+True Pos: ['models', 'generative models']
+False Neg: []
+False Pos: []
+True Neg: ['learning', 'protein', 'families']
+
+True Pos: ['motion planning', 'robot motion planning']
+False Neg: []
+False Pos: ['environments', 'robot motion']
+True Neg: ['robot', 'motion', 'planning', 'physics-based robot', 'multi-body environments', 'physics-based robot motion']
+
+True Pos: ['predicates']
+False Neg: []
+False Pos: []
+True Neg: ['technique', 'programming']
+
+True Pos: ['graphical models', 'molecular dynamics']
+False Neg: []
+False Pos: []
+True Neg: ['models', 'dynamics', 'data']
+
+True Pos: ['machine learning']
+False Neg: ['interactive machine learning']
+False Pos: ['interactive machine']
+True Neg: ['machine', 'learning', 'diamond']
+
+True Pos: ['modeling', 'statistical modeling', 'neuronal networks']
+False Neg: []
+False Pos: []
+True Neg: ['statistical', 'activity', 'scale', 'networks', 'large scale']
+
+True Pos: ['signature-based detection', 'internet worms']
+False Neg: []
+False Pos: ['detection']
+True Neg: ['internet', 'worms', 'new internet', 'new internet worms']
+
+True Pos: ['cellular automata']
+False Neg: ['model']
+False Pos: []
+True Neg: ['automata']
+
+True Pos: ['intrusion detection']
+False Neg: ['intrusion prevention']
+False Pos: ['deployment', 'detection']
+True Neg: ['intrusion', 'prevention', 'systems', 'network-wide deployment', 'prevention systems']
+
+True Pos: ['type-safe web programming']
+False Neg: ['web']
+False Pos: ['programming']
+True Neg: ['type-safe web', 'web programming']
+
+True Pos: ['dynamic logic', 'hybrid systems']
+False Neg: []
+False Pos: []
+True Neg: ['logic', 'hybrid', 'systems']
+
+True Pos: ['image creation']
+False Neg: ['image editing']
+False Pos: ['creation', 'local features']
+True Neg: ['image', 'editing', 'features']
+
+True Pos: ['model validation', 'stochastic systems']
+False Neg: []
+False Pos: ['validation']
+True Neg: ['model', 'discovery', 'systems', 'model discovery']
+
+True Pos: ['mdps', 'multiagent coordination']
+False Neg: ['decentralized mdps', 'sparse interactions']
+False Pos: []
+True Neg: ['coordination', 'interactions']
+
+True Pos: ['type safety', 'substructural specifications']
+False Neg: []
+False Pos: ['preliminary results']
+True Neg: ['type', 'safety', 'specifications', 'results']
+
+True Pos: ['differential privacy']
+False Neg: []
+False Pos: ['new algorithms']
+True Neg: ['algorithms', 'differential', 'privacy']
+
+True Pos: ['algorithms', 'models']
+False Neg: ['networking']
+False Pos: []
+True Neg: ['problems']
+
+True Pos: ['optimization', 'effective network', 'system-wide optimization']
+False Neg: ['network management']
+False Pos: []
+True Neg: ['network', 'management', 'coordination', 'system-wide coordination', 'effective network management']
+
+True Pos: ['refinement types', 'logical frameworks']
+False Neg: []
+False Pos: []
+True Neg: ['refinement', 'types', 'frameworks']
+
+True Pos: ['scalable storage', 'storage systems']
+False Neg: ['multi-server operations']
+False Pos: ['systems']
+True Neg: ['migration', 'operations', 'storage', 'scalable storage systems']
+
+True Pos: ['constraint satisfaction', 'satisfaction problems']
+False Neg: ['learning']
+False Pos: ['approximability']
+True Neg: ['constraint', 'satisfaction', 'problems']
+
+True Pos: ['transient pcs']
+False Neg: ['cloud']
+False Pos: ['earth transient']
+True Neg: ['earth', 'transient', 'pcs']
+
+True Pos: ['multi-modal databases']
+False Neg: ['mining', 'summarization']
+False Pos: ['databases']
+True Neg: ['qmas']
+
+True Pos: ['imperative programming', 'programming language']
+False Neg: []
+False Pos: ['computer scientists', 'imperative programming language']
+True Neg: ['programming', 'language', 'novice', 'computer', 'scientists', 'novice computer']
+
+True Pos: ['design', 'model', 'design model']
+False Neg: []
+False Pos: []
+True Neg: ['"women\'s"', 'empowerment', 'world', 'developing world']
+
+True Pos: ['centralized network', 'network control']
+False Neg: ['centralized network control']
+False Pos: ['practical system']
+True Neg: ['system', 'network', 'control']
+
+True Pos: ['numeric abstractions', 'heap-manipulating programs']
+False Neg: ['instrumentation analysis']
+False Pos: ['abstractions']
+True Neg: ['instrumentation', 'analysis', 'method', 'programs', 'automated method']
+
+True Pos: ['constructive provability logic']
+False Neg: ['constructive provability', 'provability logic']
+False Pos: ['provability']
+True Neg: ['principles', 'logic']
+
+True Pos: ['object recognition']
+False Neg: ['multiple-cue object recognition']
+False Pos: ['recognition', 'interactionable objects']
+True Neg: ['object', 'objects', 'multiple-cue object']
+
+True Pos: ['xia']
+False Neg: ['internet']
+False Pos: ['architecture']
+True Neg: ['trustworthy internet']
+
+True Pos: ['5-nines internet']
+False Neg: ['internet']
+False Pos: ['little change?']
+True Neg: ['change?', 'lines', 'code']
+
+True Pos: ['semantics', 'purpose requirements']
+False Neg: ['privacy policies']
+False Pos: ['requirements']
+True Neg: ['purpose', 'privacy', 'policies']
+
+True Pos: ['spatial reuse', 'indoor environments']
+False Neg: []
+False Pos: []
+True Neg: ['reuse', 'environments']
+
+True Pos: ['physical design', 'optimzation approach', 'combinatorial optimzation approach']
+False Neg: []
+False Pos: []
+True Neg: ['design', 'optimzation', 'approach', 'combinatorial optimzation']
+
+True Pos: ['access network', 'network architecture', 'neighborhood-scale multimedia']
+False Neg: ['access network architecture']
+False Pos: []
+True Neg: ['access', 'network', 'architecture', 'multimedia', 'delivery']
+
+True Pos: ['computer science', 'introductory computer science', 'carnegie mellon university']
+False Neg: []
+False Pos: ['introductory computer', 'mellon university', 'computer science education']
+True Neg: ['computer', 'science', 'education', 'carnegie', 'mellon', 'university', 'perspective', 'science education', 'carnegie mellon', '"dean\'s perspective"']
+
+True Pos: ['parallel computations']
+False Neg: ['caches', 'hierarchical caches']
+False Pos: ['computations']
+True Neg: []
+
+True Pos: ['computation']
+False Neg: ['self-adjusting computation']
+False Pos: []
+True Neg: []
+
+True Pos: ['linear logic']
+False Neg: []
+False Pos: []
+True Neg: ['logic']
+
+True Pos: ['tekkotsu']
+False Neg: []
+False Pos: []
+True Neg: ['plane']
+
+tot true pos: 88
+tot false Neg: 31
+tot false Pos: 35
+tot true Neg: 159
+
+Precision: 71.544
+Recall: 73.9

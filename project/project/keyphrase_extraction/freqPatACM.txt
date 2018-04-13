@@ -1,0 +1,22 @@
+NN 	146
+NN NN 	146
+NN NNS 	111
+JJ NNS 	109
+JJ NN 	102
+NNS 	86
+NNP 	80
+NNP NN 	67
+NNP NNS 	47
+JJ NN NNS 	19
+VBG 	18  --- routing, sorting
+JJ NN NN 	17
+NN NN NNS 	16
+NN CC NN 	16 #probably chuck -- each NN can be a keyword
+NNP NN NNS 	15
+NNS CC NNS 	15 #probably chuck -- each NNS can be a keyword
+JJ 	14
+VBG NNS 	13
+NN NN NN 	12
+NN NN CC NN 	11 #probably chuck -- each NN can be a keyword
+JJ NN CC NN 	10 #probably chuck -- each NN can be a keyword
+VBN NNS 	10

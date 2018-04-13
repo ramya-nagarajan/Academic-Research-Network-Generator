@@ -1,0 +1,79 @@
+1. a. (taking the difference in corpus sizes into consideration)
+Rewriting 	0.4969
+Specifications 	2.1162
+Security 	1.6399
+Protocols 	0.6886
+Rewriting Specifications 	4.1569
+Security Protocols 	1.8595
+key phrase:  Rewriting Specifications
+
+1. b.
+Rewriting 	-4.545
+Specifications 	-2.9258
+Security 	-3.4021
+Protocols 	-4.3534
+Rewriting Specifications 	-0.885
+Security Protocols 	-3.1825
+key phrase:  Rewriting Specifications
+
+2. a.
+ISR 	-2.7187
+Virtual 	2.8803
+Machines 	2.3612
+Virtual Machines 	0.7648
+key phrase:  Virtual
+
+2. b.
+ISR 	-7.7606
+Virtual 	-2.1616
+Machines 	-2.6808
+Virtual Machines 	-4.2772
+key phrase:  Virtual
+(last time virtual machines was the  key :-S)
+
+
+3. a.
+Cache-Oblivious 	2.7002
+Algorithms 	2.4987
+Cache-Oblivious Algorithms 	3.7572
+key phrase:  Cache-Oblivious Algorithms
+
+3. b.
+Cache-Oblivious 	-2.3418
+Algorithms 	-2.5433
+Cache-Oblivious Algorithms 	-1.2848
+key phrase:  Cache-Oblivious Algorithms
+
+2. changed :-/
+"Pocket"
+134000000
+"ISR"
+7390000
+"Virtual"
+97400000
+"Machines"
+1820000
+"Virtual Machines"
+480000
+ISR 	-7.7579
+Virtual 	-6.4628
+Machines 	-2.6808
+Virtual Machines 	-4.2772
+key phrase:  Machines
+
+2. again o_O but correct results :-/
+"Pocket"
+222000000
+"ISR"
+7390000
+"Virtual"
+97400000
+"Machines"
+72700000
+"Virtual Machines"
+467000
+ISR 	-7.7579
+Virtual 	-6.4628
+Machines 	-6.3683
+Virtual Machines 	-4.2498
+key phrase:  Virtual Machines

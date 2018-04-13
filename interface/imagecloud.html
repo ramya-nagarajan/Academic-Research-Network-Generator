@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<title>IMAGE CLOUD</title>
+		<script type="text/javascript" src="tagcanvas.js"></script>
+		
+		<script type="text/javascript">	
+			function init()
+			{
+				//try 
+				//{
+					
+					//TagCanvas.Start('cloud', 'tags', {hideTags:false});
+					//alert("Here");
+					 TagCanvas.Start('cloud','tags',{
+						//textColour: 'maroon',
+						//outlineColour: '#ff00ff',
+						reverse: true,
+						depth: 0.8,
+						maxSpeed: 0.05,
+						//weight: true,
+						//weightMode:'both',
+						shape: 'vcylinder',
+						//weightGradient:{0:"coral",0.5:"blue", 1.0:"maroon"},
+						noSelect: true,
+						textHeight: 20,
+						textFont: "Comic Sans MS",
+						hideTags: true,
+						shadow: "peachpuff",
+						shadowOffset:[5,5],
+						shadowBlur:1,
+						stretchX: 4
+						//weightFrom: "data-weight"
+					  });
+				//} 
+				//catch(e) 
+				//{
+					  // something went wrong, hide the canvas container
+					 // document.getElementById('outer').style.display = 'none';
+				//}
+			}
+		</script>
+	</head>
+	
+	<body onload='init()'>
+		<div id="outer">
+			<canvas id="cloud" width="1300" height="600">
+			</canvas>
+		</div>
+		<div id="tags">
+			<ul id="keywords" type="none">
+				<li class="big" data-weight='21'><a><img src='imgs/1.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/2.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/3.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/4.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/5.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/6.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/7.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/8.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/9.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/10.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/11.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/12.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/13.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/14.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/15.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/16.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/17.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/18.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/19.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/20.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/21.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/22.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/23.jpg' width='80' height='80'/></a></li>
+				<li class="small" data-weight='18'><a><img src='imgs/24.jpg' width='80' height='80'/></a></li>
+			</ul>
+		</div>
+	</body>
+</html>

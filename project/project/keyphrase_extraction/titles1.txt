@@ -1,0 +1,50 @@
+Bayesian Statistical Model Checking with Application to Stateflow/Simulink Verification
+Search Tree Restructuring
+Segment based Internetworking to Accommodate Diversity at the Edge
+Computing Equilibria by Incorporating Qualitative Models
+Understanding Route Aggregation
+Analysis of Scheduling Policies under Correlated Job Sizes
+Energy-Efficient Dynamic Capacity Provisioning in Server Farms
+Safe Transient Use of Local Storage for VM-based Mobility
+The Manna Plug-In Architecture for Content-based Search of VM Clouds
+Pocket ISR: Virtual Machines Anywhere
+Learning Generative Models for Protein Fold Families
+Physics-Based Robot Motion Planning in Dynamic Multi-Body Environments
+Locally Distributed Predicates: A Technique for Distributed Programming
+Time-Varying Gaussian Graphical Models of Molecular Dynamics Data
+Interactive Machine Learning in Diamond
+Statistical Modeling of Spiking Activity in Large Scale Neuronal Networks
+Privacy-Preserving Distributed, Automated Signature-Based Detection of New Internet Worms
+Model Checking Omega Cellular Automata
+Network-Wide Deployment of Intrusion Detection and Prevention  Systems
+Type-Safe Web Programming in QWeS2T
+Quantified Differential Dynamic Logic for Distributed Hybrid Systems
+Image Editing and Creation with Perception-Motivated Local Features
+Model Validation and Discovery for Complex Stochastic Systems
+Local Multiagent Coordination in Decentralized MDPs with Sparse  Interactions
+Type Safety for Substructural Specifications: Preliminary Results
+New Algorithms for Preserving Differential Privacy
+Algorithms and Models for Problems in Networking
+Effective Network Management via System-Wide Coordination and  Optimization
+Refinement Types for Logical Frameworks
+Reusing Migration to Simply and Efficiently Implement Multi-server  Operations in Transparently Scalable Storage Systems
+The Approximability of Learning and Constraint Satisfaction Problems
+Bringing the Cloud Down to Earth: Transient PCs Everywhere
+QMAS: Querying, Mining and Summarization of Multi-modal Databases
+CO, an Imperative Programming Language for Novice Computer  Scientists
+Towards a Design Model for Women's Empowerment in the Developing  World
+A Practical System for Centralized Network Control
+Instrumentation Analysis: An Automated Method for Producing Numeric  Abstractions of Heap-Manipulating Programs
+Principles of Constructive Provability Logic
+Multiple-Cue Object Recognition for Interactionable Objects
+XIA: An Architecture for an Evolvable and Trustworthy Internet
+Spare a Little Change? Towards a 5-Nines Internet in 250 Lines of Code
+On the Semantics of Purpose Requirements in Privacy Policies
+Maximizing Spatial Reuse in Indoor Environments
+Automated Physical Design: A Combinatorial Optimzation Approach
+An Access Network Architecture for Neighborhood-scale Multimedia  Delivery
+Introductory Computer Science Education at Carnegie Mellon University: A Dean's Perspective
+Scheduling Irregular Parallel Computations on Hierarchical Caches
+Programmable Self-Adjusting Computation
+Weak Focusing for Ordered Linear Logic
+Taking Tekkotsu Out Of The Plane

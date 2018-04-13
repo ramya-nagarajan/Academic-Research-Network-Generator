@@ -1,0 +1,7 @@
+Superhuman Performance of Surgical Tasks by Robots using Iterative Learning from Human-Guided Demonstrations (Best Medical Robotics Paper Award)
+LQG-MP: Optimized Path Planning for Robots with Motion Uncertainty and Imperfect State Information
+Autonomous Helicopter Aerobatics through Apprenticeship Learning
+Cloth Grasp Point Detection based on Multiple-View Geometric Cues with Application to Robotic Towel Folding
+On the Influence of Ship Motion Prediction Accuracy on Motion Planning and Control of Robotic Manipulators on Seaborne Platforms
+A GPS Software Receiver
+An Open Source AGPS/DGPS Capable C-coded Software Receiver

@@ -1,0 +1,88 @@
+1.
+Tasks 	-7.3324
+Robots 	-8.7187
+Learning 	-8.4665
+Demonstrations 	-8.8914
+Superhuman Performance 	-10.2364
+Surgical Tasks 	-5.6322
+Iterative Learning 	-5.3255
+Human-Guided Demonstrations 	-7.5011
+key phrase:  Iterative Learning
+
+2.
+Path 	-8.5221
+Planning 	-9.38
+Robots 	-8.7187
+Motion 	-9.0519
+Uncertainty 	-7.0046
+State 	-9.3074
+Information 	-9.4749
+Path Planning 	-3.7831
+Motion Uncertainty 	-6.7312
+Imperfect State 	-7.9774
+State Information 	-6.4068
+Imperfect State Information 	-7.7749
+key phrase:  Path Planning
+
+3.
+Aerobatics 	-12.2296
+Apprenticeship 	-9.5398
+Learning 	-8.4665
+Autonomous Helicopter 	-5.5087
+Helicopter Aerobatics 	-8.7403
+Apprenticeship Learning 	-5.8075
+key phrase:  Autonomous Helicopter
+
+4.
+Grasp 	-8.7526
+Point 	-9.1353
+Detection 	-7.3091
+Cues 	-7.2535
+Application 	-8.5416
+Towel 	-13.3727
+Cloth Grasp 	-5.9269
+Grasp Point 	-6.1346
+Point Detection 	-5.367
+Geometric Cues 	-5.6355
+Robotic Towel 	-6.6762
+Cloth Grasp Point 	-7.0317
+Grasp Point Detection 	-7.4816
+key phrase:  Point Detection
+
+5.
+Ship 	-10.8467
+Motion 	-9.0519
+Prediction 	-7.0181
+Accuracy 	-8.0028
+Planning 	-9.38
+Control 	-9.0266
+Manipulators 	-6.4279
+Platforms 	-8.3509
+Ship Motion 	-8.1342
+Motion Prediction 	-5.5312
+Prediction Accuracy 	-4.7077
+Motion Planning 	-3.52
+Motion Control 	-8.0804
+Robotic Manipulators 	-4.8393
+Seaborne Platforms 	5.5541
+Ship Motion Prediction 	-9.4918
+Motion Prediction Accuracy 	-9.0168
+key phrase:  Seaborne Platforms
+
+6.
+Software 	-9.1708
+Receiver 	-8.5984
+GPS Software 	-11.1468
+Software Receiver 	-7.824
+key phrase:  Software Receiver
+
+7.
+AGPS 	-11.0379
+DGPS 	-8.3544
+Software 	-9.1708
+Receiver 	-8.5984
+Open Source 	-8.8012
+C-coded Software 	-7.6686
+Software Receiver 	-7.824
+C-coded Software Receiver 	12.6441
+key phrase:  C-coded Software Receiver

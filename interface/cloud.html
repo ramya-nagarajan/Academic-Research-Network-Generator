@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Tag cloud</title>
+		<style type="text/css">
+			li.big
+			{
+				font-size: 2em;
+			}
+			li.small
+			{
+				font-size: 1.2em;
+			}
+			li.medium
+			{
+				font-size:1.5em;
+			}
+		</style>
+		<script type="text/javascript" src="tagcanvas.js"></script>
+		<script type="text/javascript">
+			
+			function init()
+			{
+				//try 
+				//{
+					
+					//TagCanvas.Start('cloud', 'tags', {hideTags:false});
+					//alert("Here");
+					 TagCanvas.Start('cloud','tags',{
+						//textColour: 'maroon',
+						//outlineColour: '#ff00ff',
+						reverse: true,
+						depth: 0.8,
+						maxSpeed: 0.05,
+						weight: true,
+						weightMode:'both',
+						shape: 'sphere',
+						weightGradient:{0:"coral",0.5:"blue", 1.0:"maroon"},
+						noSelect: true,
+						textHeight: 20,
+						textFont: "Comic Sans MS",
+						hideTags: true,
+						shadow: "peachpuff",
+						shadowOffset:[5,5],
+						shadowBlur:1
+						//weightFrom: "data-weight"
+					  });
+				//} 
+				//catch(e) 
+				//{
+					  // something went wrong, hide the canvas container
+					 // document.getElementById('outer').style.display = 'none';
+				//}
+				
+			}	
+		</script>
+	</head>
+	<body onload="init()">
+	<div id="outer">
+		<canvas id="cloud" width="500" height="500">
+		</canvas>
+	</div>
+	<div id="tags">
+		<ul id="keywords" type="none">
+			<li class="big" data-weight='21'><a>Vanilla</a></li>
+			<li class="small" data-weight='18'><a>Strawberry</a></li>
+			<li class="big" data-weight='12'><a>Chocolate</a></li>
+			<li class="medium" data-weight='12'><a>Butterscotch</a></li>
+			<li class="small" data-weight='15'><a>Lychee</a></li>
+			<li class="small" data-weight='15'><a>Orange</a></li>
+			<li class="big" data-weight='12'><a>Watermelon</a></li>
+			<li class="medium" data-weight='15'><a>Chickoooooo</a></li>
+			<li class="big" data-weight='18'><a>Fig</a></li>
+			<li class="medium" data-weight='18'><a>BlackCurrant</a></li>
+			<li class="small" data-weight='18'><a>Lime</a></li>
+			<li class="small" data-weight='15'><a>Mango</a></li>
+			<li class="big" data-weight='21'><a>Banana</a></li>
+			<li class="small" data-weight='12'><a>Pineapple</a></li>
+		</ul>
+	</div>
+	</body>
+</html>

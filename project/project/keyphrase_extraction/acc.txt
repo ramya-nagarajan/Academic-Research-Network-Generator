@@ -1,0 +1,252 @@
+False Positives: []
+Left out: ['bayesian model']
+Correct: 4
+% correct: 100.0
+
+False Positives: []
+Left out: ['search tree']
+Correct: 2
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 1
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: ['understanding route', 'aggregation']
+Left out: ['route aggregation']
+Correct: 0
+% correct: 0.0
+
+False Positives: ['job sizes']
+Left out: ['correlated job sizes']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 3
+% correct: 100.0
+
+False Positives: ['architecture', 'plug-in architecture']
+Left out: ['clouds', 'vm']
+Correct: 1
+% correct: 33.3333333333
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: ['robot motion', 'environments']
+Left out: ['dynamic environments', 'multi-body environment']
+Correct: 2
+% correct: 50.0
+
+False Positives: []
+Left out: []
+Correct: 1
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: ['interactive machine']
+Left out: ['interactive machine learning']
+Correct: 1
+% correct: 50.0
+
+False Positives: []
+Left out: []
+Correct: 3
+% correct: 100.0
+
+False Positives: ['detection']
+Left out: []
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['#model could hav also come']
+Left out: ['model']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['detection', 'deployment']
+Left out: ['intrusion prevention']
+Correct: 1
+% correct: 33.3333333333
+
+False Positives: ['programming']
+Left out: ['web']
+Correct: 1
+% correct: 50.0
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: ['local features', 'creation']
+Left out: ['image editing']
+Correct: 1
+% correct: 33.3333333333
+
+False Positives: ['validation']
+Left out: []
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: []
+Left out: ['decentralized mdps', 'sparse interactions']
+Correct: 2
+% correct: 100.0
+
+False Positives: ['preliminary results']
+Left out: []
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['new algorithms']
+Left out: []
+Correct: 1
+% correct: 50.0
+
+False Positives: []
+Left out: ['networking']
+Correct: 2
+% correct: 100.0
+
+False Positives: []
+Left out: ['network management']
+Correct: 3
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: ['systems']
+Left out: ['multi-server operations']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['approximability']
+Left out: ['learning']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['earth transient']
+Left out: ['cloud']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['databases']
+Left out: ['mining', 'summarization']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['computer scientists', 'imperative programming language']
+Left out: []
+Correct: 2
+% correct: 50.0
+
+False Positives: []
+Left out: []
+Correct: 3
+% correct: 100.0
+
+False Positives: ['practical system']
+Left out: ['centralized network control']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['abstractions']
+Left out: ['instrumentation analysis']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: ['provability']
+Left out: ['constructive provability', 'provability logic']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['interactionable objects', 'recognition']
+Left out: ['multiple-cue object recognition']
+Correct: 1
+% correct: 33.3333333333
+
+False Positives: ['architecture']
+Left out: ['internet']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['little change?']
+Left out: ['internet']
+Correct: 1
+% correct: 50.0
+
+False Positives: ['requirements']
+Left out: ['privacy policies']
+Correct: 2
+% correct: 66.6666666667
+
+False Positives: []
+Left out: []
+Correct: 2
+% correct: 100.0
+
+False Positives: []
+Left out: ['automated design']
+Correct: 3
+% correct: 100.0
+
+False Positives: []
+Left out: ['access network architecture']
+Correct: 3
+% correct: 100.0
+
+False Positives: ['computer science education', 'introductory computer', 'mellon university']
+Left out: []
+Correct: 3
+% correct: 50.0
+
+False Positives: ['computations']
+Left out: ['caches', 'hierarchical caches']
+Correct: 1
+% correct: 50.0
+
+False Positives: []
+Left out: ['self-adjusting computation']
+Correct: 1
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 1
+% correct: 100.0
+
+False Positives: []
+Left out: []
+Correct: 1
+% correct: 100.0
+
+Correct: 88
+Wrong: 36
